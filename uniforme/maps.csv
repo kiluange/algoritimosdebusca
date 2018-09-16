@@ -1,0 +1,46 @@
+current,goal,distance
+oradea,zerind,71
+oradea,sibiu,151
+zerind,oradea,71
+zerind,arad,75
+arad,zerind,75
+arad,sibiu,140
+arad,timisoara,118
+timisoara,arad,118
+timisoara,lugoj,111
+lugoj,timisoara,111
+lugoj,mehadia,70
+mahadia,lugoj,70
+mehadia,dobreta,75
+dobreta,mehadia,75
+dobreta,craiova,120
+craiova,dobreta,120
+craiova,rimnicu vilcea,146
+craiova,pitesti,138
+rimnicu vilcea,craiova,146
+rimnicu vilcea,pitesti,97
+rimnicu vilcea,sibiu,80
+sibiu,rimnicu vilcea,80
+sibiu,fagaras,99
+sibiu,oradea,151
+sibiu,arad,140
+pitesti,craiova,138
+pitesti,rimnicu vilcea,97
+pitesti,bucharest,101
+fagaras,sibiu,99
+fagaras,bucharest,211
+bucharest,fagaras,211
+bucharest,pitesti,101
+bucharest,giurgiu,90
+giurgiu,bucharest,90
+bucharest,urziceni,85
+urziceni,bucharest,85
+urziceni,hirsova,98
+hirsova,urziceni,98
+urziceni,vaslui,142
+vaslui,urziceni,142
+hirsova,eforie,86
+vaslui,iasi,92
+iasi,vaslui,92
+iasi,neamt,87
+neamt,iasi,87
