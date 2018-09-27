@@ -27,7 +27,7 @@ class Estrela(object):
 
         D = 0
 
-        for i in range(9):
+        for i in range(1,9):
             for e in estado:
                 if i in e:
                     xAxis1 = estado.index(e)
@@ -37,7 +37,6 @@ class Estrela(object):
                     xAxis2 = self.problema.objetivo.index(o)
                     yAxis2 = o.index(i)
             D += abs(xAxis1 - xAxis2) + abs(yAxis1 - yAxis2)
-        print(D)
 
         return D
     
@@ -50,24 +49,24 @@ class Estrela(object):
         if (len(self.fronteira) is 0):
             return False
 
-        pai = self.fronteira.pop()
+        pai = self.fronteira.pop(0)
+        print('pai ' + str(pai.estado)+ ' g = ' + str(pai.g) + ' h = ' + str(pai.h))
 
         if self.verifica(pai):
-            print(str(pai.estado)+' '+str(pai.custo))
+            print(str(pai.estado)+' g = '+str(pai.g))
             return pai
 
         self.explorados.append(pai)
-
-        print(self.problema.movimentos(pai.estado))
         for m in self.problema.movimentos(pai.estado):
-            filho = Node(m,pai,pai.custo + 1 + self.h(m), self.h(m))
+            filho = Node(m,pai,pai.g + 1, self.h(m))
+            print(str(filho.estado)+" g = "+str(filho.g)+" h = "+str(filho.h))
             if filho not in self.fronteira and filho not in self.explorados:
                 self.fronteira.append(filho)
             else:
                 for f in self.fronteira:
-                    if filho.estado == f.estado and filho.custo >= f.custo:
-                        f = copy.copy(filho)
-            self.fronteira.sort(key=lambda x: x.custo)
+                    if filho.estado == f.estado and filho.f < f.f:
+                        f = copy.deepcopy(filho)
+            self.fronteira.sort(key=lambda x: x.f)
         self.busca()
 
-Estrela([[1,2,3],[4,5,8],[7,0,6]],[[1,2,3],[4,5,6],[7,8,0]])
+Estrela([[4,2,3],[1,0,8],[7,5,6]],[[1,2,3],[4,5,6],[7,8,0]])
