@@ -50,7 +50,7 @@ class Estrela(object):
             return False
 
         pai = self.fronteira.pop(0)
-        print('pai ' + str(pai.estado)+ ' g = ' + str(pai.g) + ' h = ' + str(pai.h))
+        print('pai ' + str(pai.estado)+ ' g = ' + str(pai.g) + ' h = ' + str(pai.h)+" f = "+str(pai.f))
 
         if self.verifica(pai):
             print(str(pai.estado)+' g = '+str(pai.g))
@@ -59,14 +59,14 @@ class Estrela(object):
         self.explorados.append(pai)
         for m in self.problema.movimentos(pai.estado):
             filho = Node(m,pai,pai.g + 1, self.h(m))
-            print(str(filho.estado)+" g = "+str(filho.g)+" h = "+str(filho.h))
+            print(str(filho.estado)+" g = "+str(filho.g)+" h = "+str(filho.h)+" f = "+str(filho.f))
             if filho not in self.fronteira and filho not in self.explorados:
                 self.fronteira.append(filho)
             else:
                 for f in self.fronteira:
-                    if filho.estado == f.estado and filho.f < f.f:
+                    if filho.estado == f.estado and filho.g < f.g:
                         f = copy.deepcopy(filho)
             self.fronteira.sort(key=lambda x: x.f)
         self.busca()
 
-Estrela([[4,2,3],[1,0,8],[7,5,6]],[[1,2,3],[4,5,6],[7,8,0]])
+Estrela([[1,2,3],[4,5,6],[7,0,8]],[[1,2,3],[4,5,6],[7,8,0]])
