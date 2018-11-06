@@ -27,7 +27,11 @@ class Agente(object):
         if (len(self.fronteira) is 0):
             return False
 
-        parent = self.fronteira.pop(0)        
+        parent = self.fronteira.pop(0)
+
+        if parent.problema.verificaEstado(parent.estadoAtual):
+                    print('em ' + str(parent.estadoAtual) + ' com custo ' + str(parent.custo))
+                    return True      
 
         self.explorados.append(parent)
 
