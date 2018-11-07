@@ -42,7 +42,13 @@ class Agente(object):
                     print('em ' + str(child.estadoAtual) + ' com custo ' + str(child.custo))
                     return True
                 self.fronteira.append(child)             
-        self.busca()                
+        self.busca()
+
+    def exibeCaminho(self, result):
+        temp = result
+        while temp != None:
+            print('em ' + str(temp.estadoAtual) + ' com custo ' + str(temp.custo))
+            temp = temp.node              
         
 inicio = time.time()
 Agente(sys.argv[1],sys.argv[2],sys.argv[3])

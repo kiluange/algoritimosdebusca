@@ -30,7 +30,7 @@ class Agente(object):
         parent = self.fronteira.pop(0)
 
         if parent.problema.verificaEstado(parent.estadoAtual):
-            print('em ' + str(parent.estadoAtual) + ' com custo ' + str(parent.custo))
+            self.exibeCaminho(parent)
             return True    
 
         self.explorados.append(parent)
@@ -45,6 +45,17 @@ class Agente(object):
                         f = child
         self.fronteira.sort(key=lambda x: x.custo)
         self.busca()
+
+    def exibeCaminho(self, result):
+        temp = result
+        tempVet = []
+        while temp is not None:
+            tempVet.append(temp)
+            temp = temp.node
+        tempVet.sort(key=lambda x: x.custo)
+        for item in tempVet:
+            print('em ' + str(item.estadoAtual) + ' com custo ' + str(item.custo))
+
 inicio = time.time()
 Agente(sys.argv[1],sys.argv[2],sys.argv[3])
 fim = time.time()
