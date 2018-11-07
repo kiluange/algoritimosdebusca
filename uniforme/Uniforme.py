@@ -20,7 +20,7 @@ class Agente(object):
         with open(mapaCsv, 'r', newline='') as csvfile:
             spamreader = csv.DictReader(csvfile)
             for row in spamreader:
-                self.mapa.append([row['current'],row['goal'],int(row['distance'])])
+                self.mapa.append([row['NODES'],row['NEIGHBORHOOD'],int(row['CP'])])
 
     def busca(self):
 
@@ -52,8 +52,7 @@ class Agente(object):
         while temp is not None:
             tempVet.append(temp)
             temp = temp.node
-        tempVet.sort(key=lambda x: x.custo)
-        for item in tempVet:
+        for item in reversed(tempVet):
             print('em ' + str(item.estadoAtual) + ' com custo ' + str(item.custo))
 
 inicio = time.time()
