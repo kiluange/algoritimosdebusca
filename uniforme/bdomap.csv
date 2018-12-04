@@ -1,652 +1,652 @@
-NODES,CP,NODE TYPE,LOCATION,NEIGHBORHOOD,DISTANCE
-Western Gateway,3,Gateway,Earth,Wolf Hills,
-Western Gateway,3,Gateway,Earth,Coastal Cliff,
-Western Gateway,3,Gateway,Earth,Western Guard Camp,
-Heidel Pass,3,Gateway,Earth,Balenos Forest,
-Heidel Pass,3,Gateway,Earth,Forest of Plunder,
-Heidel Pass,3,Gateway,Earth,Northern Guard Camp,
-Epheria Ridge,1,Connection,Earth,Port Epheria,
-Epheria Ridge,1,Connection,Earth,Elder's Bridge,
-Elder's Bridge,1,Connection,Earth,Epheria Ridge,
-Elder's Bridge,1,Connection,Earth,Foot of Terrmian Mountain,
-Elder's Bridge,1,Connection,Earth,Florin Gateway,
-Elder's Bridge,1,Connection,Earth,Elder's Bridge Post,
-Foot of Terrmian Mountain,1,Connection,Earth,Elder's Bridge,
-Mask Owl's Forest,1,Connection,Earth,Florin,
-Mask Owl's Forest,1,Connection,Earth,Florin Gateway,
-Florin Gateway,1,Connection,Earth,Terrmian Cliff,
-Florin Gateway,1,Connection,Earth,Mask Owl's Forest,
-Florin Gateway,1,Connection,Earth,Elder's Bridge,
-Terrmian Cliff,1,Connection,Earth,Florin Gateway,
-Terrmian Cliff,1,Connection,Earth,Wale Farm,
-Wale Farm,1,Connection,Earth,Olvia,
-Wale Farm,1,Connection,Earth,Terrmian Cliff,
-Casta Farm,1,Connection,Earth,Olvia,
-Casta Farm,1,Connection,Earth,Olvia Coast,
-Casta Farm,1,Connection,Earth,Wolf Hills,
-Olvia Coast,1,Connection,Earth,Casta Farm,
-Olvia Coast,1,Connection,Earth,Balenos River Mouth,
-Wolf Hills,1,Connection,Earth,Casta Farm,
-Wolf Hills,1,Connection,Earth,Balenos River Mouth,
-Wolf Hills,1,Connection,Earth,Western Gateway,
-Balenos River Mouth,1,Connection,Earth,Coastal Cliff,
-Balenos River Mouth,1,Connection,Earth,Wolf Hills,
-Balenos River Mouth,1,Connection,Earth,Olvia Coast,
-Coastal Cliff,1,Connection,Earth,Balenos River Mouth,
-Coastal Cliff,1,Connection,Earth,Western Gateway,
-Coastal Cliff,1,Connection,Earth,Coastal Cave,
-Coastal Cave,1,Connection,Earth,Velia,
-Coastal Cave,1,Connection,Earth,Coastal Cliff,
-Altar of Agris,1,Connection,Earth,Imp Cave,
-Imp Cave,1,Connection,Earth,Western Guard Camp,
-Imp Cave,1,Connection,Earth,Altar of Agris,
-Imp Cave,1,Connection,Earth,Loggia Farm,
-Ancient Stone Chamber,1,Connection,Earth,Forest of Seclusion,
-Forest of Plunder,1,Connection,Earth,Velia,
-Forest of Plunder,1,Connection,Earth,Ehwaz Hill,
-Forest of Plunder,1,Connection,Earth,Goblin Cave,
-Forest of Plunder,1,Connection,Earth,Heidel Pass,
-Ehwaz Hill,1,Connection,Earth,Cron Castle Site,
-Ehwaz Hill,1,Connection,Earth,Finto Farm,
-Ehwaz Hill,1,Connection,Earth,Forest of Plunder,
-Cron Castle Site,1,Connection,Earth,Cron Castle,
-Cron Castle Site,1,Connection,Earth,Ehwaz Hill,
-Cron Castle Site,1,Connection,Earth,Mediah Northern Gateway,
-Ephde Rune Island,1,Connection,Sea,Dried Skipjack,
-Ephde Rune Island,1,Connection,Sea,Dried Dolphinfish,
-Ephde Rune Island,1,Connection,Sea,Dried Strip Catfish,
-Ephde Rune Island,1,Connection,Sea,Dried Filefish,
-Mariveno Island,1,Connection,Sea,Luivano Island,
-Eveto Island,1,Connection,Sea,Duch Island,
-Eveto Island,1,Connection,Sea,Balvege Island,
-Balvege Island,1,Connection,Sea,Angie Island,
-Balvege Island,1,Connection,Sea,Eveto Island,
-Balvege Island,1,Connection,Sea,Marlene Island,
-Marlene Island,1,Connection,Sea,Balvege Island,
-Angie Island,1,Connection,Sea,Balvege Island,
-Angie Island,1,Connection,Sea,Marka Island,
-Marka Island,1,Connection,Sea,Angie Island,
-Marka Island,1,Connection,Sea,Louruve Island,
-Staren Island,1,Connection,Sea,Louruve Island,
-Lisz Island,1,Connection,Sea,Louruve Island,
-Narvo Island,1,Connection,Sea,Invernen Island,
-Narvo Island,1,Connection,Sea,Arita Island,
-Invernen Island,1,Connection,Sea,Tulu Island,
-Invernen Island,1,Connection,Sea,Narvo Island,
-Tulu Island,1,Connection,Sea,Orffs Island,
-Tulu Island,1,Connection,Sea,Invernen Island,
-Orffs Island,1,Connection,Sea,Lema Island,
-Orffs Island,1,Connection,Sea,Baremi Island,
-Orffs Island,1,Connection,Sea,Tulu Island,
-Tashu Island,1,Connection,Sea,Lema Island,
-Tashu Island,1,Connection,Sea,Arita Island,
-Weita Island,1,Connection,Sea,Paratama Island,
-Weita Island,1,Connection,Sea,Baremi Island,
-Weita Island,1,Connection,Sea,Kanvera Island,
-Paratama Island,1,Connection,Sea,Luivano Island,
-Paratama Island,1,Connection,Sea,Weita Island,
-Paratama Island,1,Connection,Sea,Beiruwa Island,
-Kanvera Island,1,Connection,Sea,Weita Island,
-Kanvera Island,1,Connection,Sea,Arakil Island,
-Arakil Island,1,Connection,Sea,Iliya Island,
-Arakil Island,1,Connection,Sea,Kanvera Island,
-Pujara Island,1,Connection,Sea,Iliya Island,
-Pujara Island,1,Connection,Sea,Delinghart Island,
-Ajir Island,1,Connection,Sea,Al-Naha Island,
-Ajir Island,1,Connection,Sea,Baremi Island,
-Al-Naha Island,1,Connection,Sea,Racid Island,
-Al-Naha Island,1,Connection,Sea,Ajir Island,
-Shasha Island,1,Connection,Sea,Iliya Island,
-Shasha Island,1,Connection,Sea,Rosevan Island,
-Rosevan Island,1,Connection,Sea,Shasha Island,
-Rosevan Island,1,Connection,Sea,Portanen Island,
-Rosevan Island,1,Connection,Sea,Boa Island,
-Portanen Island,1,Connection,Sea,Lerao Island,
-Portanen Island,1,Connection,Sea,Rosevan Island,
-Lerao Island,1,Connection,Sea,Tinberra Island,
-Lerao Island,1,Connection,Sea,Portanen Island,
-Tinberra Island,1,Connection,Sea,Racid Island,
-Tinberra Island,1,Connection,Sea,Lerao Island,
-Toscani Farm,2,Trading Post,Earth,Western Guard Camp,
-Marino Farm,2,Trading Post,Earth,Bartali Farm,
-Marino Farm,2,Trading Post,Earth,Forest of Seclusion,
-Marino Farm,2,Trading Post,Earth,Bartali Farm,
-Bartali Farm,2,Trading Post,Earth,Velia,
-Bartali Farm,2,Trading Post,Earth,Balenos Forest,
-Bartali Farm,2,Trading Post,Earth,Marino Farm,
-Bartali Farm,2,Trading Post,Earth,Toscani Farm,
-Loggia Farm,2,Trading Post,Earth,Imp Cave,
-Loggia Farm,2,Trading Post,Earth,Velia,
-Balenos Forest,2,Trading Post,Earth,Bartali Farm,
-Balenos Forest,2,Trading Post,Earth,Heidel Pass,
-Finto Farm,2,Trading Post,Earth,Velia,
-Finto Farm,2,Trading Post,Earth,Ehwaz Hill,
-Luivano Island,1,Trading Post,Sea,Velia,
-Luivano Island,1,Trading Post,Sea,Duch Island,
-Luivano Island,1,Trading Post,Sea,Mariveno Island,
-Luivano Island,1,Trading Post,Sea,Paratama Island,
-Luivano Island,1,Trading Post,Sea,Ephde Rune Island,
-Duch Island,1,Trading Post,Sea,Luivano Island,
-Duch Island,1,Trading Post,Sea,Eveto Island,
-Louruve Island,1,Trading Post,Sea,Marka Island,
-Louruve Island,1,Trading Post,Sea,Staren Island,
-Louruve Island,1,Trading Post,Sea,Lisz Island,
-Baremi Island,1,Trading Post,Sea,Weita Island,
-Baremi Island,1,Trading Post,Sea,Ajir Island,
-Baremi Island,1,Trading Post,Sea,Orffs Island,
-Racid Island,1,Trading Post,Sea,Tinberra Island,
-Racid Island,1,Trading Post,Sea,Al-Naha Island,
-Forest of Seclusion,2,Dangerous,Earth,Toscani Farm,
-Forest of Seclusion,2,Dangerous,Earth,Ancient Stone Chamber,
-Forest of Seclusion,2,Dangerous,Earth,Bandit's Den Byway,
-Goblin Cave,2,Dangerous,Earth,Forest of Plunder,
-Cron Castle,2,Dangerous,Earth,Cron Castle Site,
-Velia,0,Capital,Earth,Finto Farm,
-Velia,0,Capital,Earth,Forest of Plunder,
-Velia,0,Capital,Earth,Bartali Farm,
-Velia,0,Capital,Earth,Loggia Farm,
-Velia,0,Capital,Earth,Coastal Cave,
-Velia,0,Capital,Earth,Luivano Island,
-Olvia,0,Town,Earth,Casta Farm,
-Olvia,0,Town,Earth,Wale Farm,
-Western Guard Camp,1,Town,Earth,Western Gateway,
-Western Guard Camp,1,Town,Earth,Imp Cave,
-Western Guard Camp,1,Town,Earth,Toscani Farm,
-Western Guard Camp,1,Town,Earth,Bandit's Den Byway,
-Iliya Island,0,Town,Sea,Ostra Island,
-Iliya Island,0,Town,Sea,Arakil Island,
-Iliya Island,0,Town,Sea,Shasha Island,
-Iliya Island,0,Town,Sea,Pujara Island,
-Lema Island,1,Town,Sea,Tashu Island,
-Lema Island,1,Town,Sea,Orffs Island,
-Lema Island,1,Town,Sea,Port Ratt,
-Epheria Sentry Post,3,Gateway,Earth,Epheria Port,
-Epheria Sentry Post,3,Gateway,Earth,Epheria Valley,
-Elder's Bridge Post,3,Gateway,Earth,Elder's Bridge,
-Elder's Bridge Post,3,Gateway,Earth,Anti-Troll Fortification,
-Anti-Troll Fortification,3,Gateway,Earth,Isolated Sentry Post,
-Anti-Troll Fortification,3,Gateway,Earth,Elder's Bridge Post,
-Anti-Troll Fortification,3,Gateway,Earth,Bernianto Farm,
-Anti-Troll Fortification,3,Gateway,Earth,Contaminated Farm,
-Isolated Sentry Post,3,Gateway,Earth,Epheria Valley,
-Isolated Sentry Post,3,Gateway,Earth,Quint Hill,
-Isolated Sentry Post,3,Gateway,Earth,Anti-Troll Fortification,
-Isolated Sentry Post,3,Gateway,Earth,Abandoned Land,
-Isolated Sentry Post,3,Gateway,Earth,Cohen Farm,
-Calpheon Castle,3,Gateway,Earth,Calpheon Castle Site,
-North Kaia Pier,3,Gateway,Earth,Gabino Farm,
-North Kaia Pier,3,Gateway,Earth,South Kaia Pier,
-North Kaia Pier,3,Gateway,Earth,Calpheon Castle Site,
-South Kaia Pier,3,Gateway,Earth,North Kaia Pier,
-South Kaia Pier,3,Gateway,Earth,Rhutum Sentry Post,
-Abandoned Monastery,3,Gateway,Earth,Tobare's Cabin,
-Abandoned Monastery,3,Gateway,Earth,Lumberjack's Rest Area,
-Abandoned Monastery,3,Gateway,Earth,Treant Forest,
-Trina Fort,3,Gateway,Earth,Trina Beacon Towers,
-Trina Fort,3,Gateway,Earth,Tarte Rock Fork,
-Trina Fort,3,Gateway,Earth,Saunil Battlefield,
-Trina Beacon Towers,3,Gateway,Earth,Beacon Entrance Post,
-Trina Beacon Towers,3,Gateway,Earth,Trina Fort,
-Marni Cave Path,3,Gateway,Earth,Falres Dirt Farm,
-Marni Cave Path,3,Gateway,Earth,Marni Farm Ruins,
-Marni Cave Path,3,Gateway,Earth,North Abandoned Quarry,
-Marni Cave Path,3,Gateway,Earth,Marni's Lab,
-Marni Cave Path,3,Gateway,Earth,Beacon Entrance Post,
-Serendia Western Gateway,3,Gateway,Earth,Gianin Farm,
-Serendia Western Gateway,3,Gateway,Earth,Southern Neutral Zone,
-Delphe Knights Castle,3,Gateway,Earth,Delphe Outpost,
-Delphe Knights Castle,3,Gateway,Earth,Biraghi Den,
-Delphe Knights Castle,3,Gateway,Earth,Oze Pass,
-Delphe Knights Castle,3,Gateway,Earth,Dias Farm,
-Delphe Outpost,3,Gateway,Earth,Karanda Ridge,
-Delphe Outpost,3,Gateway,Earth,Delphe Knights Castle,
-Delphe Outpost,3,Gateway,Earth,Old Dandelion,
-Abandoned Land (Refugee Camp),1,Connection,Earth,Calpheon City,
-Abandoned Land (Refugee Camp),1,Connection,Earth,Cohen Farm,
-Abandoned Land (Refugee Camp),1,Connection,Earth,Isolated Sentry Post,
-Quint Hill,1,Connection,Earth,Isolated Sentry Post,
-Epheria Valley,1,Connection,Earth,Isolated Sentry Post,
-Epheria Valley,1,Connection,Earth,Epheria Sentry Post,
-Calpheon Castle Site,1,Connection,Earth,Calpheon Castle,
-Calpheon Castle Site,1,Connection,Earth,North Kaia Pier,
-Calpheon Castle Site,1,Connection,Earth,Catfishman Camp,
-Lumberjack's Rest Area,1,Connection,Earth,Abandoned Monastery,
-Lumberjack's Rest Area,1,Connection,Earth,Trent,
-Behr Downstream,3,Connection,Earth,Behr,
-Behr Downstream,3,Connection,Earth,Behr Riverhead,
-Behr Downstream,3,Connection,Earth,Phoniel's Cabin Entrance,
-Behr Downstream,3,Connection,Earth,Saunil Battlefield,
-Behr Downstream,3,Connection,Earth,Rhua Tree Stub,
-Behr Riverhead,1,Connection,Earth,Behr Downstream,
-Behr Riverhead,1,Connection,Earth,Phoniel's Cabin,
-Phoniel's Cabin Entrance,1,Connection,Earth,Phoniel's Cabin,
-Phoniel's Cabin Entrance,1,Connection,Earth,Behr Downstream,
-Phoniel's Cabin Entrance,1,Connection,Earth,Bain Farmland,
-Rhua Tree Stub,1,Connection,Earth,Behr Downstream,
-Rhua Tree Stub,1,Connection,Earth,Saunil Battlefield,
-Rhua Tree Stub,1,Connection,Earth,Hexe Sanctuary,
-Marie Cave,1,Connection,Earth,Witch's Chapel,
-Marie Cave,1,Connection,Earth,Hexe Stone Wall,
-Hexe Stone Wall,1,Connection,Earth,Primal Giant Post,
-Hexe Stone Wall,1,Connection,Earth,Marie Cave,
-Gehaku Plain,1,Connection,Earth,Dane Canyon,
-Gehaku Plain,1,Connection,Earth,Abandoned Quarry,
-Gehaku Plain,1,Connection,Earth,Gianin Farm,
-Gehaku Plain,1,Connection,Earth,Primal Giant Post,
-Keplan Hill,1,Connection,Earth,Keplan,
-Keplan Hill,1,Connection,Earth,Gianin Farm,
-Tarte Rock Fork,1,Connection,Earth,Trina Fort,
-Tarte Rock Fork,1,Connection,Earth,Keplan,
-Tarte Rock Fork,1,Connection,Earth,Abandoned Quarry,
-Keplan Quarry,1,Connection,Earth,Keplan,
-Keplan Quarry,1,Connection,Earth,North Abandoned Quarry,
-Keplan Vicinity,1,Connection,Earth,Quarry Byway,
-Keplan Vicinity,1,Connection,Earth,Keplan,
-Keplan Vicinity,1,Connection,Earth,Southern Neutral Zone,
-Marni Farm Ruins,1,Connection,Earth,Falres Dirt Farm,
-Marni Farm Ruins,1,Connection,Earth,Oze Pass,
-Marni Farm Ruins,1,Connection,Earth,Marni Cave Path,
-Contaminated Farm,2,Trading Post,Earth,Calpheon City,
-Contaminated Farm,2,Trading Post,Earth,Anti-Troll Fortification,
-Dias Farm,2,Trading Post,Earth,Calpheon City,
-Dias Farm,2,Trading Post,Earth,Northern Wheat Plantation,
-Dias Farm,2,Trading Post,Earth,Delphe Knights Castle,
-Dias Farm,2,Trading Post,Earth,Falres Dirt Farm,
-Bernianto Farm,2,Trading Post,Earth,Anti-Troll Fortification,
-Bernianto Farm,2,Trading Post,Earth,Northern Wheat Plantation,
-Bernianto Farm,2,Trading Post,Earth,Bree Tree Ruins,
-Falres Dirt Farm,2,Trading Post,Earth,Calpheon City,
-Falres Dirt Farm,2,Trading Post,Earth,Marni Farm Ruins,
-Falres Dirt Farm,2,Trading Post,Earth,Marni Cave Path,
-Gabino Farm,2,Trading Post,Earth,Calpheon City,
-Gabino Farm,2,Trading Post,Earth,North Kaia Mountaintop,
-Gabino Farm,2,Trading Post,Earth,North Kaia Pier,
-Cohen Farm,2,Trading Post,Earth,Abandoned Land,
-Cohen Farm,2,Trading Post,Earth,Isolated Sentry Post,
-Rhutum Sentry Post,3,Trading Post,Earth,South Kaia Pier,
-Rhutum Sentry Post,3,Trading Post,Earth,Phoniel's Cabin,
-Rhutum Sentry Post,3,Trading Post,Earth,Rhutum Outstation,
-Mansha Forest,2,Trading Post,Earth,Calpheon Castle Western Forest,
-Mansha Forest,2,Trading Post,Earth,Catfishman Camp,
-Mansha Forest,2,Trading Post,Earth,Tobare's Cabin,
-Tobare's Cabin,2,Trading Post,Earth,Mansha Forest,
-Tobare's Cabin,2,Trading Post,Earth,Rhutum Outstation,
-Tobare's Cabin,2,Trading Post,Earth,Abandoned Monastery,
-Phoniel's Cabin,2,Trading Post,Earth,North Kaia Mountaintop,
-Phoniel's Cabin,2,Trading Post,Earth,Phoniel's Cabin Entrance,
-Phoniel's Cabin,2,Trading Post,Earth,Behr Riverhead,
-Phoniel's Cabin,2,Trading Post,Earth,Rhutum Sentry Post,
-Longleaf Tree Sentry Post,2,Trading Post,Earth,Trent,
-Longleaf Tree Sentry Post,2,Trading Post,Earth,Crioville,
-Crioville,2,Trading Post,Earth,Longleaf Tree Sentry Post,
-Crioville,2,Trading Post,Earth,Longleaf Tree Forest,
-Oberen Farm,2,Trading Post,Earth,Calpheon City,
-Oberen Farm,2,Trading Post,Earth,Bain Farmland,
-Oberen Farm,2,Trading Post,Earth,Beacon Entrance Post,
-Bain Farmland,2,Trading Post,Earth,Oberen Farm,
-Bain Farmland,2,Trading Post,Earth,Phoniel's Cabin Entrance,
-Beacon Entrance Post,3,Trading Post,Earth,Oberen Farm,
-Beacon Entrance Post,3,Trading Post,Earth,Trina Beacon Towers,
-Beacon Entrance Post,3,Trading Post,Earth,Marni Cave Path,
-Dane Canyon,2,Trading Post,Earth,Saunil Camp,
-Dane Canyon,2,Trading Post,Earth,Gehaku Plain,
-Abandoned Quarry,2,Trading Post,Earth,Tarte Rock Fork,
-Abandoned Quarry,2,Trading Post,Earth,Gehaku Plain,
-Gianin Farm,2,Trading Post,Earth,Keplan Hill,
-Gianin Farm,2,Trading Post,Earth,Gehaku Plain,
-Gianin Farm,2,Trading Post,Earth,Serendia Western Gateway,
-Quarry Byway,2,Trading Post,Earth,Oze Pass,
-Quarry Byway,2,Trading Post,Earth,Keplan Vicinity,
-Quarry Byway,2,Trading Post,Earth,Orc Camp,
-Old Dandelion,1,Dangerous,Earth,Northern Wheat Plantation,
-Old Dandelion,1,Dangerous,Earth,Khuruto Cave,
-Old Dandelion,1,Dangerous,Earth,Delphe Outpost,
-Khuruto Cave,1,Dangerous,Earth,Florin,
-Khuruto Cave,1,Dangerous,Earth,Old Dandelion,
-Karanda Ridge,1,Dangerous,Earth,Delphe Outpost,
-Bree Tree Ruins,1,Dangerous,Earth,Caphras Cave,
-Bree Tree Ruins,1,Dangerous,Earth,Bernianto Farm,
-Caphras Cave,1,Dangerous,Earth,Florin,
-Caphras Cave,1,Dangerous,Earth,Bree Tree Ruins,
-Calpheon Castle Western Forest,1,Dangerous,Earth,Catfishman Camp,
-Calpheon Castle Western Forest,1,Dangerous,Earth,Mansha Forest,
-Catfishman Camp,1,Dangerous,Earth,Calpheon Castle Site,
-Catfishman Camp,1,Dangerous,Earth,Lake Kaia,
-Catfishman Camp,1,Dangerous,Earth,Mansha Forest,
-Catfishman Camp,1,Dangerous,Earth,Calpheon Castle Western Forest,
-Lake Kaia (Northern Lake Kaia Southern Lake Kaia),1,Dangerous,Earth,Catfishman Camp,
-North Kaia Mountaintop,1,Dangerous,Earth,Gabino Farm,
-North Kaia Mountaintop,1,Dangerous,Earth,Phoniel's Cabin,
-Rhutum Outstation,1,Dangerous,Earth,Rhutum Sentry Post,
-Rhutum Outstation,1,Dangerous,Earth,Tobare's Cabin,
-Treant Forest,1,Dangerous,Earth,Abandoned Monastery,
-Longleaf Tree Forest,1,Dangerous,Earth,Crioville,
-Longleaf Tree Forest,1,Dangerous,Earth,Behr,
-Longleaf Tree Forest,1,Dangerous,Earth,Kamasylvia Vicinity,
-Hexe Sanctuary,2,Dangerous,Earth,Rhua Tree Stub,
-Hexe Sanctuary,2,Dangerous,Earth,Witch's Chapel,
-Witch's Chapel,1,Dangerous,Earth,Hexe Sanctuary,
-Witch's Chapel,1,Dangerous,Earth,Marie Cave,
-Witch's Chapel,1,Dangerous,Earth,Fountain of Origin,
-Saunil Battlefield,1,Dangerous,Earth,Saunil Camp,
-Saunil Battlefield,1,Dangerous,Earth,Rhua Tree Stub,
-Saunil Battlefield,1,Dangerous,Earth,Behr Downstream,
-Saunil Battlefield,1,Dangerous,Earth,Trina Fort,
-Saunil Camp,1,Dangerous,Earth,Saunil Battlefield,
-Saunil Camp,1,Dangerous,Earth,Dane Canyon,
-Primal Giant Post,1,Dangerous,Earth,Gehaku Plain,
-Primal Giant Post,1,Dangerous,Earth,Hexe Stone Wall,
-Glutoni Cave,1,Dangerous,Earth,Marni's Lab,
-Marni's Lab,1,Dangerous,Earth,Marni Cave Path,
-Marni's Lab,1,Dangerous,Earth,Glutoni Cave,
-North Abandoned Quarry,1,Dangerous,Earth,Marni Cave Path,
-North Abandoned Quarry,1,Dangerous,Earth,Oze's House,
-North Abandoned Quarry,1,Dangerous,Earth,Keplan Quarry,
-Oze's House,1,Dangerous,Earth,Oze Pass,
-Oze's House,1,Dangerous,Earth,North Abandoned Quarry,
-Oze Pass,1,Dangerous,Earth,Marni Farm Ruins,
-Oze Pass,1,Dangerous,Earth,Delphe Knights Castle,
-Oze Pass,1,Dangerous,Earth,Bradie Fortress,
-Oze Pass,1,Dangerous,Earth,Oze's House,
-Oze Pass,1,Dangerous,Earth,Quarry Byway,
-Calpheon City,0,Capital,Earth,Abandoned Land,
-Calpheon City,0,Capital,Earth,Contaminated Farm,
-Calpheon City,0,Capital,Earth,Dias Farm,
-Calpheon City,0,Capital,Earth,Falres Dirt Farm,
-Calpheon City,0,Capital,Earth,Oberen Farm,
-Calpheon City,0,Capital,Earth,Gabino Farm,
-Port Epheria,0,Town,Earth,Epheria Sentry Post,
-Port Epheria,0,Town,Earth,Serca Island,
-Port Epheria,0,Town,Earth,Epheria Ridge,
-Florin,1,Town,Earth,Mask Owl's Forest,
-Florin,1,Town,Earth,Caphras Cave,
-Florin,1,Town,Earth,Khuruto Cave,
-Northern Wheat Plantation,2,Town,Earth,Bernianto Farm,
-Northern Wheat Plantation,2,Town,Earth,Dias Farm,
-Northern Wheat Plantation,2,Town,Earth,Old Dandelion,
-Keplan (Keplan Extraction Mill),0,Town,Earth,Keplan Quarry,
-Keplan (Keplan Extraction Mill),0,Town,Earth,Tarte Rock Fork,
-Keplan (Keplan Extraction Mill),0,Town,Earth,Keplan Vicinity,
-Keplan (Keplan Extraction Mill),0,Town,Earth,Keplan Hill,
-Behr,1,Town,Earth,Longleaf Tree Forest,
-Behr,1,Town,Earth,Behr Downstream,
-Trent,0,Town,Earth,Lumberjack's Rest Area,
-Trent,0,Town,Earth,Longleaf Tree Sentry Post,
-Lemoria Guard Post,2,Gateway,Earth,Kamasylvia Vicinity,
-Lemoria Guard Post,2,Gateway,Earth,Atanis Pond,
-Lemoria Guard Post,2,Gateway,Earth,Ahib Conflict Zone,
-Lemoria Beacon Towers,1,Gateway,Earth,Shady Tree Forest,
-Central Lemoria Camp,1,Gateway,Earth,Manshaum Forest,
-Central Lemoria Camp,1,Gateway,Earth,Navarn Steppe,
-Central Lemoria Camp,1,Gateway,Earth,Holo Forest,
-Central Lemoria Camp,1,Gateway,Earth,White Wood Forest,
-Acher Southern Camp,1,Gateway,Earth,Grana,
-Acher Western Camp,2,Gateway,Earth,Loopy Tree Forest,
-Acher Guard Post,3,Gateway,Earth,Loopy Tree Forest,
-Acher Guard Post,3,Gateway,Earth,Western Valtarra Mountains,
-Atanis Pond,1,Connection,Earth,Lemoria Guard Post,
-Atanis Pond,1,Connection,Earth,Caduil Forest,
-Atanis Pond,1,Connection,Earth,Viv Foretta's Hamlet,
-Caduil Forest,1,Connection,Earth,Atanis Pond,
-Caduil Forest,1,Connection,Earth,Old Wisdom Tree,
-Caduil Forest,1,Connection,Earth,Manshaum Forest,
-Shady Tree Forest,1,Connection,Earth,Old Wisdom Tree,
-Shady Tree Forest,1,Connection,Earth,Navarn Steppe,
-Shady Tree Forest,1,Connection,Earth,Lemoria Beacon Towers,
-Valtarra Mountains,1,Connection,Earth,Viv Foretta's Hamlet,
-Valtarra Mountains,1,Connection,Earth,Valtarra - Altar of Training,
-Holo Forest,2,Connection,Earth,Central Lemoria Camp,
-Holo Forest,2,Connection,Earth,Mirumok Ruins,
-Holo Forest,2,Connection,Earth,White Wood Forest,
-Okiara River,1,Connection,Earth,Grana,
-Southern Kamasylvia,2,Connection,Earth,Grana,
-Southern Kamasylvia,2,Connection,Earth,Gyfin Rhasia Temple,
-White Wood Forest,1,Connection,Earth,Lake Flondor,
-White Wood Forest,1,Connection,Earth,Holo Forest,
-White Wood Forest,1,Connection,Earth,Central Lemoria Camp,
-White Wood Forest,1,Connection,Earth,Tooth Fairy Forest,
-Polly's Forest,2,Connection,Earth,Grana,
-Polly's Forest,2,Connection,Earth,Krogdalo Trace,
-Looney Cabin,1,Connection,Earth,Krogdalo Trace,
-Krogdalo Trace,2,Connection,Earth,Polly's Forest,
-Krogdalo Trace,2,Connection,Earth,Looney Cabin,
-Krogdalo Trace,2,Connection,Earth,Weenie Cabin,
-Weenie Cabin,1,Connection,Earth,Krogdalo Trace,
-Western Valtarra Mountains,2,Connection,Earth,Acher Guard Post,
-Western Valtarra Mountains,2,Connection,Earth,Yianaros's Field,
-Western Valtarra Mountains,2,Connection,Earth,Mirumok Ruins,
-Western Valtarra Mountains,2,Connection,Earth,Valtarra - Altar of Training,
-Yianaros's Field,1,Connection,Earth,Western Valtarra Mountains,
-Viv Foretta's Hamlet,2,Trading Post,Earth,Atanis Pond,
-Viv Foretta's Hamlet,2,Trading Post,Earth,Valtarra Mountains,
-Lake Flondor,3,Trading Post,Earth,Grana,
-Lake Flondor,3,Trading Post,Earth,White Wood Forest,
-Kamasylvia Vicinity,2,Dangerous,Earth,Longleaf Tree Forest,
-Kamasylvia Vicinity,2,Dangerous,Earth,Lemoria Guard Post,
-Valtarra - Altar of Training,2,Dangerous,Earth,Valtarra Mountains,
-Valtarra - Altar of Training,2,Dangerous,Earth,Western Valtarra Mountains,
-Manshaum Forest,3,Dangerous,Earth,Caduil Forest,
-Manshaum Forest,3,Dangerous,Earth,Central Lemoria Camp,
-Navarn Steppe,3,Dangerous,Earth,Shady Tree Forest,
-Navarn Steppe,3,Dangerous,Earth,Central Lemoria Camp,
-Gyfin Rhasia Temple,3,Dangerous,Earth,Southern Kamasylvia,
-Mirumok Ruins,3,Dangerous,Earth,Holo Forest,
-Mirumok Ruins,3,Dangerous,Earth,Western Valtarra Mountains,
-Tooth Fairy Forest,3,Dangerous,Earth,Tooth Fairy Cabin,
-Tooth Fairy Forest,3,Dangerous,Earth,White Wood Forest,
-Tooth Fairy Forest,3,Dangerous,Earth,Loopy Tree Forest,
-Loopy Tree Forest,2,Dangerous,Earth,Ash Forest,
-Loopy Tree Forest,2,Dangerous,Earth,Acher Guard Post,
-Loopy Tree Forest,2,Dangerous,Earth,Acher Western Camp,
-Loopy Tree Forest,2,Dangerous,Earth,Tooth Fairy Forest,
-Ash Forest,3,Dangerous,Earth,Loopy Tree Forest,
-Grana,0,Capital,Earth,Polly's Forest,
-Grana,0,Capital,Earth,Lake Flondor,
-Grana,0,Capital,Earth,Okiara River,
-Grana,0,Capital,Earth,Southern Kamasylvia,
-Grana,0,Capital,Earth,Acher Southern Camp,
-Old Wisdom Tree,0,Town,Earth,Caduil Forest,
-Old Wisdom Tree,0,Town,Earth,Shady Tree Forest,
-Tooth Fairy Cabin,2,Town,Earth,Tooth Fairy Forest,
-Mediah Northern Gateway,3,Gateway,Earth,The Mausoleum,
-Mediah Northern Gateway,3,Gateway,Earth,Cron Castle Site,
-Sarma Outpost,1,Gateway,Earth,Sausan Garrison,
-Sarma Outpost,1,Gateway,Earth,Mediah Castle,
-Sarma Outpost,1,Gateway,Earth,Kusha,
-Mediah Castle,1,Gateway,Earth,Sarma Outpost,
-The Mausoleum,1,Connection,Earth,Mediah Northern Gateway,
-The Mausoleum,1,Connection,Earth,Mediah Northern Highlands,
-Mediah Northern Highlands,2,Connection,Earth,The Mausoleum,
-Mediah Northern Highlands,2,Connection,Earth,Helms Post,
-Mediah Northern Highlands,2,Connection,Earth,Elric Shrine,
-Mediah Northern Highlands,2,Connection,Earth,Sausan Garrison,
-Sausan Garrison Wharf,1,Connection,Earth,Sausan Garrison,
-Sausan Garrison Wharf,1,Connection,Earth,Pilava Island,
-Stonetail Wasteland,1,Connection,Earth,Kusha,
-Stonetail Wasteland,1,Connection,Earth,Sausan Garrison,
-Stonetail Wasteland,1,Connection,Earth,Canyon of Corruption,
-Mediah Shore,1,Connection,Earth,Kusha,
-Mediah Shore,1,Connection,Earth,Shuri Farm,
-Mediah Shore,1,Connection,Earth,Omar Lava Cave,
-Ancient Fissure,2,Connection,Earth,Helms Post,
-Ancient Fissure,2,Connection,Earth,Rumbling Land,
-Ancient Fissure,2,Connection,Earth,Ancient Ruins Excavation Site,
-Rumbling Land,1,Connection,Earth,Eastern Border,
-Rumbling Land,1,Connection,Earth,Ancient Fissure,
-Ancient Ruins Excavation Site,1,Connection,Earth,Ancient Fissure,
-Ancient Ruins Excavation Site,1,Connection,Earth,Canyon of Corruption,
-Ancient Ruins Excavation Site,1,Connection,Earth,Kamasylve Temple,
-Kamasylve Temple,2,Connection,Earth,Eastern Border,
-Kamasylve Temple,2,Connection,Earth,Ancient Ruins Excavation Site,
-Kamasylve Temple,2,Connection,Earth,Ahto Farm,
-Kamasylve Temple,2,Connection,Earth,Castle Ruins,
-Ahto Farm,2,Connection,Earth,Kamasylve Temple,
-Ahto Farm,2,Connection,Earth,Manes Hideout,
-Ahto Farm,2,Connection,Earth,Stonetail Horse Ranch,
-Stonebeak Shore,1,Connection,Earth,Omar Lava Cave,
-Stonebeak Shore,1,Connection,Earth,Altinova Entrance,
-Awakening Bell,1,Connection,Earth,Omar Lava Cave,
-Awakening Bell,1,Connection,Earth,Altinova Entrance,
-Asula Highland,1,Connection,Earth,Omar Lava Cave,
-Asula Highland,1,Connection,Earth,Highland Junction,
-Asula Highland,1,Connection,Earth,Kasula Farm,
-Asula Highland,1,Connection,Earth,Stonetail Horse Ranch,
-Highland Junction,1,Connection,Earth,Asula Highland,
-Highland Junction,1,Connection,Earth,Abandoned Iron Mine Entrance,
-Highland Junction,1,Connection,Earth,Altinova Entrance,
-Altinova Entrance,1,Connection,Earth,Altinova,
-Altinova Entrance,1,Connection,Earth,Abandoned Iron Mine,
-Altinova Entrance,1,Connection,Earth,Highland Junction,
-Altinova Entrance,1,Connection,Earth,Awakening Bell,
-Altinova Entrance,1,Connection,Earth,Stonebeak Shore,
-Abandoned Iron Mine Entrance,1,Connection,Earth,Highland Junction,
-Abandoned Iron Mine Entrance,1,Connection,Earth,Alumn Rock Valley,
-Alumn Rock Valley,1,Connection,Earth,Splashing Point,
-Alumn Rock Valley,1,Connection,Earth,Wandering Rogue Den,
-Alumn Rock Valley,1,Connection,Earth,Abandoned Iron Mine Entrance,
-Alumn Rock Valley,1,Connection,Earth,Abandoned Iron Mine Saunil District,
-Hasrah Cliff (Hasrah Ancient Ruins),1,Connection,Earth,Tungrad Forest,
-Hasrah Cliff (Hasrah Ancient Ruins),1,Connection,Earth,Khimut Lumber Camp,
-Shuri Farm,2,Trading Post,Earth,Canyon of Corruption,
-Shuri Farm,2,Trading Post,Earth,Stonetail Horse Ranch,
-Shuri Farm,2,Trading Post,Earth,Mediah Shore,
-Stonetail Horse Ranch,1,Trading Post,Earth,Shuri Farm,
-Stonetail Horse Ranch,1,Trading Post,Earth,Ahto Farm,
-Stonetail Horse Ranch,1,Trading Post,Earth,Asula Highland,
-Omar Lava Cave,2,Trading Post,Earth,Mediah Shore,
-Omar Lava Cave,2,Trading Post,Earth,Stonebeak Shore,
-Omar Lava Cave,2,Trading Post,Earth,Awakening Bell,
-Omar Lava Cave,2,Trading Post,Earth,Asula Highland,
-Kasula Farm,2,Trading Post,Earth,Tarif,
-Kasula Farm,2,Trading Post,Earth,Wandering Rogue Den,
-Kasula Farm,2,Trading Post,Earth,Asula Highland,
-Splashing Point,1,Trading Post,Earth,Alumn Rock Valley,
-Sausan Garrison,1,Dangerous,Earth,Mediah Northern Highlands,
-Sausan Garrison,1,Dangerous,Earth,Sausan Garrison Wharf,
-Sausan Garrison,1,Dangerous,Earth,Stonetail Wasteland,
-Sausan Garrison,1,Dangerous,Earth,Sarma Outpost,
-Elric Shrine,1,Dangerous,Earth,Mediah Northern Highlands,
-Elric Shrine,1,Dangerous,Earth,Canyon of Corruption,
-Helms Post,1,Dangerous,Earth,Mediah Northern Highlands,
-Helms Post,1,Dangerous,Earth,Ancient Fissure,
-Canyon of Corruption,1,Dangerous,Earth,Elric Shrine,
-Canyon of Corruption,1,Dangerous,Earth,Stonetail Wasteland,
-Canyon of Corruption,1,Dangerous,Earth,Shuri Farm,
-Canyon of Corruption,1,Dangerous,Earth,Ancient Ruins Excavation Site,
-Manes Hideout,1,Dangerous,Earth,Ahto Farm,
-Manes Hideout,1,Dangerous,Earth,Tarif,
-Wandering Rogue Den,1,Dangerous,Earth,Kasula Farm,
-Wandering Rogue Den,1,Dangerous,Earth,Alumn Rock Valley,
-Abandoned Iron Mine,2,Dangerous,Earth,Abandoned Iron Mine Saunil District,
-Abandoned Iron Mine,2,Dangerous,Earth,Abandoned Iron Mine Rhutum District,
-Abandoned Iron Mine,2,Dangerous,Earth,Altinova Entrance,
-Abandoned Iron Mine Saunil District,1,Dangerous,Earth,Abandoned Iron Mine,
-Abandoned Iron Mine Saunil District,1,Dangerous,Earth,Alumn Rock Valley,
-Abandoned Iron Mine Saunil District,1,Dangerous,Earth,Marni's 2nd Lab,
-Abandoned Iron Mine Rhutum District,1,Dangerous,Earth,Abandoned Iron Mine,
-Abandoned Iron Mine Rhutum District,1,Dangerous,Earth,Abun,
-Marni's 2nd Lab,1,Dangerous,Earth,Abun,
-Marni's 2nd Lab,1,Dangerous,Earth,Abandoned Iron Mine Saunil District,
-Soldier's Grave,1,Dangerous,Earth,Castle Ruins,
-Soldier's Grave,1,Dangerous,Earth,Tarif,
-Soldier's Grave,1,Dangerous,Earth,Tungrad Forest,
-Tungrad Forest,1,Dangerous,Earth,Soldier's Grave,
-Tungrad Forest,1,Dangerous,Earth,Hasrah Cliff,
-Altinova,0,Capital,Earth,Abun,
-Altinova,0,Capital,Earth,Altinova Entrance,
-Altinova,0,Capital,Earth,Altinova Gateway,
-Tarif,0,Town,Earth,Soldier's Grave,
-Tarif,0,Town,Earth,Manes Hideout,
-Tarif,0,Town,Earth,Kasula Farm,
-Kusha,1,Town,Earth,Stonetail Wasteland,
-Kusha,1,Town,Earth,Sarma Outpost,
-Kusha,1,Town,Earth,Mediah Shore,
-Abun,1,Town,Earth,Altinova,
-Abun,1,Town,Earth,Abandoned Iron Mine Rhutum District,
-Abun,1,Town,Earth,Marni's 2nd Lab,
-Northern Guard Camp,3,Gateway,Earth,Heidel,
-Northern Guard Camp,3,Gateway,Earth,Heidel Pass,
-Northern Guard Camp,3,Gateway,Earth,Alejandro Farm,
-Northern Guard Camp,3,Gateway,Earth,Northern Heidel Quarry,
-Central Guard Camp,3,Gateway,Earth,Costa Farm,
-Central Guard Camp,3,Gateway,Earth,Northern Cienaga,
-Central Guard Camp,3,Gateway,Earth,Glish Ruins,
-Central Guard Camp,3,Gateway,Earth,Glish,
-Eastern Gateway,3,Gateway,Earth,Moretti Plantation,
-Eastern Gateway,3,Gateway,Earth,Northern Cienaga,
-Eastern Gateway,3,Gateway,Earth,Southern Guard Camp,
-Eastern Gateway,3,Gateway,Earth,Castle Ruins,
-Eastern Border,3,Gateway,Earth,Heidel,
-Eastern Border,3,Gateway,Earth,Rumbling Land,
-Eastern Border,3,Gateway,Earth,Kamasylve Temple,
-Southern Guard Camp,3,Gateway,Earth,Serendia Shrine,
-Southern Guard Camp,3,Gateway,Earth,Southern Cienaga,
-Southern Guard Camp,3,Gateway,Earth,Glish Ruins,
-Southern Guard Camp,3,Gateway,Earth,Eastern Gateway,
-Southwestern Gateway,3,Gateway,Earth,Glish,
-Southwestern Gateway,3,Gateway,Earth,Northwestern Gateway,
-Southwestern Gateway,3,Gateway,Earth,Bloody Monastery,
-Southwestern Gateway,3,Gateway,Earth,Southern Neutral Zone,
-Northwestern Gateway,3,Gateway,Earth,Lynch Farm Ruins,
-Northwestern Gateway,3,Gateway,Earth,Orc Camp,
-Northwestern Gateway,3,Gateway,Earth,Southwestern Gateway,
-Northwestern Gateway,3,Gateway,Earth,Glish,
-Bandit's Den Byway,3,Gateway,Earth,Western Guard Camp,
-Bandit's Den Byway,3,Gateway,Earth,Forest of Seclusion,
-Bandit's Den Byway,3,Gateway,Earth,Biraghi Den,
-Northern Heidel Quarry,1,Connection,Earth,Northern Guard Camp,
-Lynch Farm Ruins,1,Connection,Earth,Northern Plain of Serendia,
-Lynch Farm Ruins,1,Connection,Earth,Alejandro Farm,
-Lynch Farm Ruins,1,Connection,Earth,Heidel,
-Lynch Farm Ruins,1,Connection,Earth,Northwestern Gateway,
-Northern Plain of Serendia,1,Connection,Earth,Biraghi Den,
-Northern Plain of Serendia,1,Connection,Earth,Lynch Ranch,
-Northern Plain of Serendia,1,Connection,Earth,Lynch Farm Ruins,
-Northern Plain of Serendia,1,Connection,Earth,Bradie Fortress,
-Glish Ruins,1,Connection,Earth,Central Guard Camp,
-Glish Ruins,1,Connection,Earth,Southern Guard Camp,
-Southern Cienaga,1,Connection,Earth,Glish,
-Southern Cienaga,1,Connection,Earth,Southern Guard Camp,
-Glish Swamp,1,Connection,Earth,Glish,
-Orc Camp,3,Connection,Earth,Bradie Fortress,
-Orc Camp,3,Connection,Earth,Northwestern Gateway,
-Orc Camp,3,Connection,Earth,Watchtower,
-Orc Camp,3,Connection,Earth,Quarry Byway,
-Watchtower,1,Connection,Earth,Orc Camp,
-Watchtower,1,Connection,Earth,Southern Neutral Zone,
-Alejandro Farm,2,Trading Post,Earth,Northern Guard Camp,
-Alejandro Farm,2,Trading Post,Earth,Lynch Farm Ruins,
-Lynch Ranch,2,Trading Post,Earth,Northern Plain of Serendia,
-Costa Farm,2,Trading Post,Earth,Heidel,
-Costa Farm,2,Trading Post,Earth,Central Guard Camp,
-Northern Cienaga,2,Trading Post,Earth,Moretti Plantation,
-Northern Cienaga,2,Trading Post,Earth,Eastern Gateway,
-Northern Cienaga,2,Trading Post,Earth,Central Guard Camp,
-Moretti Plantation,2,Trading Post,Earth,Heidel,
-Moretti Plantation,2,Trading Post,Earth,Eastern Gateway,
-Moretti Plantation,2,Trading Post,Earth,Northern Cienaga,
-Serendia Shrine,1,Dangerous,Earth,Southern Guard Camp,
-Serendia Shrine,1,Dangerous,Earth,Khimut Lumber Camp,
-Castle Ruins,1,Dangerous,Earth,Eastern Gateway,
-Castle Ruins,1,Dangerous,Earth,Kamasylve Temple,
-Castle Ruins,1,Dangerous,Earth,Soldier's Grave,
-Bloody Monastery,1,Dangerous,Earth,Southwestern Gateway,
-Southern Neutral Zone,3,Dangerous,Earth,Watchtower,
-Southern Neutral Zone,3,Dangerous,Earth,Southwestern Gateway,
-Southern Neutral Zone,3,Dangerous,Earth,Serendia Western Gateway,
-Southern Neutral Zone,3,Dangerous,Earth,Keplan Vicinity,
-Bradie Fortress,1,Dangerous,Earth,Northern Plain of Serendia,
-Bradie Fortress,1,Dangerous,Earth,Orc Camp,
-Bradie Fortress,1,Dangerous,Earth,Oze Pass,
-Biraghi Den,3,Dangerous,Earth,Northern Plain of Serendia,
-Biraghi Den,3,Dangerous,Earth,Delphe Knights Castle,
-Heidel,0,Capital,Earth,Northern Guard Camp,
-Heidel,0,Capital,Earth,Eastern Border,
-Heidel,0,Capital,Earth,Moretti Plantation,
-Heidel,0,Capital,Earth,Costa Farm,
-Heidel,0,Capital,Earth,Lynch Farm Ruins,
-Glish,0,Town,Earth,Central Guard Camp,
-Glish,0,Town,Earth,Northwestern Gateway,
-Glish,0,Town,Earth,Southwestern Gateway,
-Glish,0,Town,Earth,Glish Swamp,
-Glish,0,Town,Earth,Southern Cienaga,
+,NODES,CP,NODE TYPE,LOCATION,NEIGHBORHOOD,DISTANCE
+0,WESTERN_GATEWAY,3,GATEWAY,EARTH,WOLF_HILLS,NAN
+1,WESTERN_GATEWAY,3,GATEWAY,EARTH,COASTAL_CLIFF,NAN
+2,WESTERN_GATEWAY,3,GATEWAY,EARTH,WESTERN_GUARD_CAMP,NAN
+3,HEIDEL_PASS,3,GATEWAY,EARTH,BALENOS_FOREST,NAN
+4,HEIDEL_PASS,3,GATEWAY,EARTH,FOREST_OF_PLUNDER,NAN
+5,HEIDEL_PASS,3,GATEWAY,EARTH,NORTHERN_GUARD_CAMP,NAN
+6,EPHERIA_RIDGE,1,CONNECTION,EARTH,PORT_EPHERIA,NAN
+7,EPHERIA_RIDGE,1,CONNECTION,EARTH,ELDER'S_BRIDGE,NAN
+8,ELDER'S_BRIDGE,1,CONNECTION,EARTH,EPHERIA_RIDGE,NAN
+9,ELDER'S_BRIDGE,1,CONNECTION,EARTH,FOOT_OF_TERRMIAN_MOUNTAIN,NAN
+10,ELDER'S_BRIDGE,1,CONNECTION,EARTH,FLORIN_GATEWAY,NAN
+11,ELDER'S_BRIDGE,1,CONNECTION,EARTH,ELDER'S_BRIDGE_POST,NAN
+12,FOOT_OF_TERRMIAN_MOUNTAIN,1,CONNECTION,EARTH,ELDER'S_BRIDGE,NAN
+13,MASK_OWL'S_FOREST,1,CONNECTION,EARTH,FLORIN,NAN
+14,MASK_OWL'S_FOREST,1,CONNECTION,EARTH,FLORIN_GATEWAY,NAN
+15,FLORIN_GATEWAY,1,CONNECTION,EARTH,TERRMIAN_CLIFF,NAN
+16,FLORIN_GATEWAY,1,CONNECTION,EARTH,MASK_OWL'S_FOREST,NAN
+17,FLORIN_GATEWAY,1,CONNECTION,EARTH,ELDER'S_BRIDGE,NAN
+18,TERRMIAN_CLIFF,1,CONNECTION,EARTH,FLORIN_GATEWAY,NAN
+19,TERRMIAN_CLIFF,1,CONNECTION,EARTH,WALE_FARM,NAN
+20,WALE_FARM,1,CONNECTION,EARTH,OLVIA,NAN
+21,WALE_FARM,1,CONNECTION,EARTH,TERRMIAN_CLIFF,NAN
+22,CASTA_FARM,1,CONNECTION,EARTH,OLVIA,NAN
+23,CASTA_FARM,1,CONNECTION,EARTH,OLVIA_COAST,NAN
+24,CASTA_FARM,1,CONNECTION,EARTH,WOLF_HILLS,NAN
+25,OLVIA_COAST,1,CONNECTION,EARTH,CASTA_FARM,NAN
+26,OLVIA_COAST,1,CONNECTION,EARTH,BALENOS_RIVER_MOUTH,NAN
+27,WOLF_HILLS,1,CONNECTION,EARTH,CASTA_FARM,NAN
+28,WOLF_HILLS,1,CONNECTION,EARTH,BALENOS_RIVER_MOUTH,NAN
+29,WOLF_HILLS,1,CONNECTION,EARTH,WESTERN_GATEWAY,NAN
+30,BALENOS_RIVER_MOUTH,1,CONNECTION,EARTH,COASTAL_CLIFF,NAN
+31,BALENOS_RIVER_MOUTH,1,CONNECTION,EARTH,WOLF_HILLS,NAN
+32,BALENOS_RIVER_MOUTH,1,CONNECTION,EARTH,OLVIA_COAST,NAN
+33,COASTAL_CLIFF,1,CONNECTION,EARTH,BALENOS_RIVER_MOUTH,NAN
+34,COASTAL_CLIFF,1,CONNECTION,EARTH,WESTERN_GATEWAY,NAN
+35,COASTAL_CLIFF,1,CONNECTION,EARTH,COASTAL_CAVE,NAN
+36,COASTAL_CAVE,1,CONNECTION,EARTH,VELIA,NAN
+37,COASTAL_CAVE,1,CONNECTION,EARTH,COASTAL_CLIFF,NAN
+38,ALTAR_OF_AGRIS,1,CONNECTION,EARTH,IMP_CAVE,NAN
+39,IMP_CAVE,1,CONNECTION,EARTH,WESTERN_GUARD_CAMP,NAN
+40,IMP_CAVE,1,CONNECTION,EARTH,ALTAR_OF_AGRIS,NAN
+41,IMP_CAVE,1,CONNECTION,EARTH,LOGGIA_FARM,NAN
+42,ANCIENT_STONE_CHAMBER,1,CONNECTION,EARTH,FOREST_OF_SECLUSION,NAN
+43,FOREST_OF_PLUNDER,1,CONNECTION,EARTH,VELIA,NAN
+44,FOREST_OF_PLUNDER,1,CONNECTION,EARTH,EHWAZ_HILL,NAN
+45,FOREST_OF_PLUNDER,1,CONNECTION,EARTH,GOBLIN_CAVE,NAN
+46,FOREST_OF_PLUNDER,1,CONNECTION,EARTH,HEIDEL_PASS,NAN
+47,EHWAZ_HILL,1,CONNECTION,EARTH,CRON_CASTLE_SITE,NAN
+48,EHWAZ_HILL,1,CONNECTION,EARTH,FINTO_FARM,NAN
+49,EHWAZ_HILL,1,CONNECTION,EARTH,FOREST_OF_PLUNDER,NAN
+50,CRON_CASTLE_SITE,1,CONNECTION,EARTH,CRON_CASTLE,NAN
+51,CRON_CASTLE_SITE,1,CONNECTION,EARTH,EHWAZ_HILL,NAN
+52,CRON_CASTLE_SITE,1,CONNECTION,EARTH,MEDIAH_NORTHERN_GATEWAY,NAN
+53,EPHDE_RUNE_ISLAND,1,CONNECTION,SEA,DRIED_SKIPJACK,NAN
+54,EPHDE_RUNE_ISLAND,1,CONNECTION,SEA,DRIED_DOLPHINFISH,NAN
+55,EPHDE_RUNE_ISLAND,1,CONNECTION,SEA,DRIED_STRIP_CATFISH,NAN
+56,EPHDE_RUNE_ISLAND,1,CONNECTION,SEA,DRIED_FILEFISH,NAN
+57,MARIVENO_ISLAND,1,CONNECTION,SEA,LUIVANO_ISLAND,NAN
+58,EVETO_ISLAND,1,CONNECTION,SEA,DUCH_ISLAND,NAN
+59,EVETO_ISLAND,1,CONNECTION,SEA,BALVEGE_ISLAND,NAN
+60,BALVEGE_ISLAND,1,CONNECTION,SEA,ANGIE_ISLAND,NAN
+61,BALVEGE_ISLAND,1,CONNECTION,SEA,EVETO_ISLAND,NAN
+62,BALVEGE_ISLAND,1,CONNECTION,SEA,MARLENE_ISLAND,NAN
+63,MARLENE_ISLAND,1,CONNECTION,SEA,BALVEGE_ISLAND,NAN
+64,ANGIE_ISLAND,1,CONNECTION,SEA,BALVEGE_ISLAND,NAN
+65,ANGIE_ISLAND,1,CONNECTION,SEA,MARKA_ISLAND,NAN
+66,MARKA_ISLAND,1,CONNECTION,SEA,ANGIE_ISLAND,NAN
+67,MARKA_ISLAND,1,CONNECTION,SEA,LOURUVE_ISLAND,NAN
+68,STAREN_ISLAND,1,CONNECTION,SEA,LOURUVE_ISLAND,NAN
+69,LISZ_ISLAND,1,CONNECTION,SEA,LOURUVE_ISLAND,NAN
+70,NARVO_ISLAND,1,CONNECTION,SEA,INVERNEN_ISLAND,NAN
+71,NARVO_ISLAND,1,CONNECTION,SEA,ARITA_ISLAND,NAN
+72,INVERNEN_ISLAND,1,CONNECTION,SEA,TULU_ISLAND,NAN
+73,INVERNEN_ISLAND,1,CONNECTION,SEA,NARVO_ISLAND,NAN
+74,TULU_ISLAND,1,CONNECTION,SEA,ORFFS_ISLAND,NAN
+75,TULU_ISLAND,1,CONNECTION,SEA,INVERNEN_ISLAND,NAN
+76,ORFFS_ISLAND,1,CONNECTION,SEA,LEMA_ISLAND,NAN
+77,ORFFS_ISLAND,1,CONNECTION,SEA,BAREMI_ISLAND,NAN
+78,ORFFS_ISLAND,1,CONNECTION,SEA,TULU_ISLAND,NAN
+79,TASHU_ISLAND,1,CONNECTION,SEA,LEMA_ISLAND,NAN
+80,TASHU_ISLAND,1,CONNECTION,SEA,ARITA_ISLAND,NAN
+81,WEITA_ISLAND,1,CONNECTION,SEA,PARATAMA_ISLAND,NAN
+82,WEITA_ISLAND,1,CONNECTION,SEA,BAREMI_ISLAND,NAN
+83,WEITA_ISLAND,1,CONNECTION,SEA,KANVERA_ISLAND,NAN
+84,PARATAMA_ISLAND,1,CONNECTION,SEA,LUIVANO_ISLAND,NAN
+85,PARATAMA_ISLAND,1,CONNECTION,SEA,WEITA_ISLAND,NAN
+86,PARATAMA_ISLAND,1,CONNECTION,SEA,BEIRUWA_ISLAND,NAN
+87,KANVERA_ISLAND,1,CONNECTION,SEA,WEITA_ISLAND,NAN
+88,KANVERA_ISLAND,1,CONNECTION,SEA,ARAKIL_ISLAND,NAN
+89,ARAKIL_ISLAND,1,CONNECTION,SEA,ILIYA_ISLAND,NAN
+90,ARAKIL_ISLAND,1,CONNECTION,SEA,KANVERA_ISLAND,NAN
+91,PUJARA_ISLAND,1,CONNECTION,SEA,ILIYA_ISLAND,NAN
+92,PUJARA_ISLAND,1,CONNECTION,SEA,DELINGHART_ISLAND,NAN
+93,AJIR_ISLAND,1,CONNECTION,SEA,AL-NAHA_ISLAND,NAN
+94,AJIR_ISLAND,1,CONNECTION,SEA,BAREMI_ISLAND,NAN
+95,AL-NAHA_ISLAND,1,CONNECTION,SEA,RACID_ISLAND,NAN
+96,AL-NAHA_ISLAND,1,CONNECTION,SEA,AJIR_ISLAND,NAN
+97,SHASHA_ISLAND,1,CONNECTION,SEA,ILIYA_ISLAND,NAN
+98,SHASHA_ISLAND,1,CONNECTION,SEA,ROSEVAN_ISLAND,NAN
+99,ROSEVAN_ISLAND,1,CONNECTION,SEA,SHASHA_ISLAND,NAN
+100,ROSEVAN_ISLAND,1,CONNECTION,SEA,PORTANEN_ISLAND,NAN
+101,ROSEVAN_ISLAND,1,CONNECTION,SEA,BOA_ISLAND,NAN
+102,PORTANEN_ISLAND,1,CONNECTION,SEA,LERAO_ISLAND,NAN
+103,PORTANEN_ISLAND,1,CONNECTION,SEA,ROSEVAN_ISLAND,NAN
+104,LERAO_ISLAND,1,CONNECTION,SEA,TINBERRA_ISLAND,NAN
+105,LERAO_ISLAND,1,CONNECTION,SEA,PORTANEN_ISLAND,NAN
+106,TINBERRA_ISLAND,1,CONNECTION,SEA,RACID_ISLAND,NAN
+107,TINBERRA_ISLAND,1,CONNECTION,SEA,LERAO_ISLAND,NAN
+108,TOSCANI_FARM,2,TRADING POST,EARTH,WESTERN_GUARD_CAMP,NAN
+109,MARINO_FARM,2,TRADING POST,EARTH,BARTALI_FARM,NAN
+110,MARINO_FARM,2,TRADING POST,EARTH,FOREST_OF_SECLUSION,NAN
+111,MARINO_FARM,2,TRADING POST,EARTH,BARTALI_FARM,NAN
+112,BARTALI_FARM,2,TRADING POST,EARTH,VELIA,NAN
+113,BARTALI_FARM,2,TRADING POST,EARTH,BALENOS_FOREST,NAN
+114,BARTALI_FARM,2,TRADING POST,EARTH,MARINO_FARM,NAN
+115,BARTALI_FARM,2,TRADING POST,EARTH,TOSCANI_FARM,NAN
+116,LOGGIA_FARM,2,TRADING POST,EARTH,IMP_CAVE,NAN
+117,LOGGIA_FARM,2,TRADING POST,EARTH,VELIA,NAN
+118,BALENOS_FOREST,2,TRADING POST,EARTH,BARTALI_FARM,NAN
+119,BALENOS_FOREST,2,TRADING POST,EARTH,HEIDEL_PASS,NAN
+120,FINTO_FARM,2,TRADING POST,EARTH,VELIA,NAN
+121,FINTO_FARM,2,TRADING POST,EARTH,EHWAZ_HILL,NAN
+122,LUIVANO_ISLAND,1,TRADING POST,SEA,VELIA,NAN
+123,LUIVANO_ISLAND,1,TRADING POST,SEA,DUCH_ISLAND,NAN
+124,LUIVANO_ISLAND,1,TRADING POST,SEA,MARIVENO_ISLAND,NAN
+125,LUIVANO_ISLAND,1,TRADING POST,SEA,PARATAMA_ISLAND,NAN
+126,LUIVANO_ISLAND,1,TRADING POST,SEA,EPHDE_RUNE_ISLAND,NAN
+127,DUCH_ISLAND,1,TRADING POST,SEA,LUIVANO_ISLAND,NAN
+128,DUCH_ISLAND,1,TRADING POST,SEA,EVETO_ISLAND,NAN
+129,LOURUVE_ISLAND,1,TRADING POST,SEA,MARKA_ISLAND,NAN
+130,LOURUVE_ISLAND,1,TRADING POST,SEA,STAREN_ISLAND,NAN
+131,LOURUVE_ISLAND,1,TRADING POST,SEA,LISZ_ISLAND,NAN
+132,BAREMI_ISLAND,1,TRADING POST,SEA,WEITA_ISLAND,NAN
+133,BAREMI_ISLAND,1,TRADING POST,SEA,AJIR_ISLAND,NAN
+134,BAREMI_ISLAND,1,TRADING POST,SEA,ORFFS_ISLAND,NAN
+135,RACID_ISLAND,1,TRADING POST,SEA,TINBERRA_ISLAND,NAN
+136,RACID_ISLAND,1,TRADING POST,SEA,AL-NAHA_ISLAND,NAN
+137,FOREST_OF_SECLUSION,2,DANGEROUS,EARTH,TOSCANI_FARM,NAN
+138,FOREST_OF_SECLUSION,2,DANGEROUS,EARTH,ANCIENT_STONE_CHAMBER,NAN
+139,FOREST_OF_SECLUSION,2,DANGEROUS,EARTH,BANDIT'S_DEN_BYWAY,NAN
+140,GOBLIN_CAVE,2,DANGEROUS,EARTH,FOREST_OF_PLUNDER,NAN
+141,CRON_CASTLE,2,DANGEROUS,EARTH,CRON_CASTLE_SITE,NAN
+142,VELIA,0,CAPITAL,EARTH,FINTO_FARM,NAN
+143,VELIA,0,CAPITAL,EARTH,FOREST_OF_PLUNDER,NAN
+144,VELIA,0,CAPITAL,EARTH,BARTALI_FARM,NAN
+145,VELIA,0,CAPITAL,EARTH,LOGGIA_FARM,NAN
+146,VELIA,0,CAPITAL,EARTH,COASTAL_CAVE,NAN
+147,VELIA,0,CAPITAL,EARTH,LUIVANO_ISLAND,NAN
+148,OLVIA,0,TOWN,EARTH,CASTA_FARM,NAN
+149,OLVIA,0,TOWN,EARTH,WALE_FARM,NAN
+150,WESTERN_GUARD_CAMP,1,TOWN,EARTH,WESTERN_GATEWAY,NAN
+151,WESTERN_GUARD_CAMP,1,TOWN,EARTH,IMP_CAVE,NAN
+152,WESTERN_GUARD_CAMP,1,TOWN,EARTH,TOSCANI_FARM,NAN
+153,WESTERN_GUARD_CAMP,1,TOWN,EARTH,BANDIT'S_DEN_BYWAY,NAN
+154,ILIYA_ISLAND,0,TOWN,SEA,OSTRA_ISLAND,NAN
+155,ILIYA_ISLAND,0,TOWN,SEA,ARAKIL_ISLAND,NAN
+156,ILIYA_ISLAND,0,TOWN,SEA,SHASHA_ISLAND,NAN
+157,ILIYA_ISLAND,0,TOWN,SEA,PUJARA_ISLAND,NAN
+158,LEMA_ISLAND,1,TOWN,SEA,TASHU_ISLAND,NAN
+159,LEMA_ISLAND,1,TOWN,SEA,ORFFS_ISLAND,NAN
+160,LEMA_ISLAND,1,TOWN,SEA,PORT_RATT,NAN
+161,EPHERIA_SENTRY_POST,3,GATEWAY,EARTH,EPHERIA_PORT,NAN
+162,EPHERIA_SENTRY_POST,3,GATEWAY,EARTH,EPHERIA_VALLEY,NAN
+163,ELDER'S_BRIDGE_POST,3,GATEWAY,EARTH,ELDER'S_BRIDGE,NAN
+164,ELDER'S_BRIDGE_POST,3,GATEWAY,EARTH,ANTI-TROLL_FORTIFICATION,NAN
+165,ANTI-TROLL_FORTIFICATION,3,GATEWAY,EARTH,ISOLATED_SENTRY_POST,NAN
+166,ANTI-TROLL_FORTIFICATION,3,GATEWAY,EARTH,ELDER'S_BRIDGE_POST,NAN
+167,ANTI-TROLL_FORTIFICATION,3,GATEWAY,EARTH,BERNIANTO_FARM,NAN
+168,ANTI-TROLL_FORTIFICATION,3,GATEWAY,EARTH,CONTAMINATED_FARM,NAN
+169,ISOLATED_SENTRY_POST,3,GATEWAY,EARTH,EPHERIA_VALLEY,NAN
+170,ISOLATED_SENTRY_POST,3,GATEWAY,EARTH,QUINT_HILL,NAN
+171,ISOLATED_SENTRY_POST,3,GATEWAY,EARTH,ANTI-TROLL_FORTIFICATION,NAN
+172,ISOLATED_SENTRY_POST,3,GATEWAY,EARTH,ABANDONED_LAND,NAN
+173,ISOLATED_SENTRY_POST,3,GATEWAY,EARTH,COHEN_FARM,NAN
+174,CALPHEON_CASTLE,3,GATEWAY,EARTH,CALPHEON_CASTLE_SITE,NAN
+175,NORTH_KAIA_PIER,3,GATEWAY,EARTH,GABINO_FARM,NAN
+176,NORTH_KAIA_PIER,3,GATEWAY,EARTH,SOUTH_KAIA_PIER,NAN
+177,NORTH_KAIA_PIER,3,GATEWAY,EARTH,CALPHEON_CASTLE_SITE,NAN
+178,SOUTH_KAIA_PIER,3,GATEWAY,EARTH,NORTH_KAIA_PIER,NAN
+179,SOUTH_KAIA_PIER,3,GATEWAY,EARTH,RHUTUM_SENTRY_POST,NAN
+180,ABANDONED_MONASTERY,3,GATEWAY,EARTH,TOBARE'S_CABIN,NAN
+181,ABANDONED_MONASTERY,3,GATEWAY,EARTH,LUMBERJACK'S_REST_AREA,NAN
+182,ABANDONED_MONASTERY,3,GATEWAY,EARTH,TREANT_FOREST,NAN
+183,TRINA_FORT,3,GATEWAY,EARTH,TRINA_BEACON_TOWERS,NAN
+184,TRINA_FORT,3,GATEWAY,EARTH,TARTE_ROCK_FORK,NAN
+185,TRINA_FORT,3,GATEWAY,EARTH,SAUNIL_BATTLEFIELD,NAN
+186,TRINA_BEACON_TOWERS,3,GATEWAY,EARTH,BEACON_ENTRANCE_POST,NAN
+187,TRINA_BEACON_TOWERS,3,GATEWAY,EARTH,TRINA_FORT,NAN
+188,MARNI_CAVE_PATH,3,GATEWAY,EARTH,FALRES_DIRT_FARM,NAN
+189,MARNI_CAVE_PATH,3,GATEWAY,EARTH,MARNI_FARM_RUINS,NAN
+190,MARNI_CAVE_PATH,3,GATEWAY,EARTH,NORTH_ABANDONED_QUARRY,NAN
+191,MARNI_CAVE_PATH,3,GATEWAY,EARTH,MARNI'S_LAB,NAN
+192,MARNI_CAVE_PATH,3,GATEWAY,EARTH,BEACON_ENTRANCE_POST,NAN
+193,SERENDIA_WESTERN_GATEWAY,3,GATEWAY,EARTH,GIANIN_FARM,NAN
+194,SERENDIA_WESTERN_GATEWAY,3,GATEWAY,EARTH,SOUTHERN_NEUTRAL_ZONE,NAN
+195,DELPHE_KNIGHTS_CASTLE,3,GATEWAY,EARTH,DELPHE_OUTPOST,NAN
+196,DELPHE_KNIGHTS_CASTLE,3,GATEWAY,EARTH,BIRAGHI_DEN,NAN
+197,DELPHE_KNIGHTS_CASTLE,3,GATEWAY,EARTH,OZE_PASS,NAN
+198,DELPHE_KNIGHTS_CASTLE,3,GATEWAY,EARTH,DIAS_FARM,NAN
+199,DELPHE_OUTPOST,3,GATEWAY,EARTH,KARANDA_RIDGE,NAN
+200,DELPHE_OUTPOST,3,GATEWAY,EARTH,DELPHE_KNIGHTS_CASTLE,NAN
+201,DELPHE_OUTPOST,3,GATEWAY,EARTH,OLD_DANDELION,NAN
+202,ABANDONED_LAND_(REFUGEE_CAMP),1,CONNECTION,EARTH,CALPHEON_CITY,NAN
+203,ABANDONED_LAND_(REFUGEE_CAMP),1,CONNECTION,EARTH,COHEN_FARM,NAN
+204,ABANDONED_LAND_(REFUGEE_CAMP),1,CONNECTION,EARTH,ISOLATED_SENTRY_POST,NAN
+205,QUINT_HILL,1,CONNECTION,EARTH,ISOLATED_SENTRY_POST,NAN
+206,EPHERIA_VALLEY,1,CONNECTION,EARTH,ISOLATED_SENTRY_POST,NAN
+207,EPHERIA_VALLEY,1,CONNECTION,EARTH,EPHERIA_SENTRY_POST,NAN
+208,CALPHEON_CASTLE_SITE,1,CONNECTION,EARTH,CALPHEON_CASTLE,NAN
+209,CALPHEON_CASTLE_SITE,1,CONNECTION,EARTH,NORTH_KAIA_PIER,NAN
+210,CALPHEON_CASTLE_SITE,1,CONNECTION,EARTH,CATFISHMAN_CAMP,NAN
+211,LUMBERJACK'S_REST_AREA,1,CONNECTION,EARTH,ABANDONED_MONASTERY,NAN
+212,LUMBERJACK'S_REST_AREA,1,CONNECTION,EARTH,TRENT,NAN
+213,BEHR_DOWNSTREAM,3,CONNECTION,EARTH,BEHR,NAN
+214,BEHR_DOWNSTREAM,3,CONNECTION,EARTH,BEHR_RIVERHEAD,NAN
+215,BEHR_DOWNSTREAM,3,CONNECTION,EARTH,PHONIEL'S_CABIN_ENTRANCE,NAN
+216,BEHR_DOWNSTREAM,3,CONNECTION,EARTH,SAUNIL_BATTLEFIELD,NAN
+217,BEHR_DOWNSTREAM,3,CONNECTION,EARTH,RHUA_TREE_STUB,NAN
+218,BEHR_RIVERHEAD,1,CONNECTION,EARTH,BEHR_DOWNSTREAM,NAN
+219,BEHR_RIVERHEAD,1,CONNECTION,EARTH,PHONIEL'S_CABIN,NAN
+220,PHONIEL'S_CABIN_ENTRANCE,1,CONNECTION,EARTH,PHONIEL'S_CABIN,NAN
+221,PHONIEL'S_CABIN_ENTRANCE,1,CONNECTION,EARTH,BEHR_DOWNSTREAM,NAN
+222,PHONIEL'S_CABIN_ENTRANCE,1,CONNECTION,EARTH,BAIN_FARMLAND,NAN
+223,RHUA_TREE_STUB,1,CONNECTION,EARTH,BEHR_DOWNSTREAM,NAN
+224,RHUA_TREE_STUB,1,CONNECTION,EARTH,SAUNIL_BATTLEFIELD,NAN
+225,RHUA_TREE_STUB,1,CONNECTION,EARTH,HEXE_SANCTUARY,NAN
+226,MARIE_CAVE,1,CONNECTION,EARTH,WITCH'S_CHAPEL,NAN
+227,MARIE_CAVE,1,CONNECTION,EARTH,HEXE_STONE_WALL,NAN
+228,HEXE_STONE_WALL,1,CONNECTION,EARTH,PRIMAL_GIANT_POST,NAN
+229,HEXE_STONE_WALL,1,CONNECTION,EARTH,MARIE_CAVE,NAN
+230,GEHAKU_PLAIN,1,CONNECTION,EARTH,DANE_CANYON,NAN
+231,GEHAKU_PLAIN,1,CONNECTION,EARTH,ABANDONED_QUARRY,NAN
+232,GEHAKU_PLAIN,1,CONNECTION,EARTH,GIANIN_FARM,NAN
+233,GEHAKU_PLAIN,1,CONNECTION,EARTH,PRIMAL_GIANT_POST,NAN
+234,KEPLAN_HILL,1,CONNECTION,EARTH,KEPLAN,NAN
+235,KEPLAN_HILL,1,CONNECTION,EARTH,GIANIN_FARM,NAN
+236,TARTE_ROCK_FORK,1,CONNECTION,EARTH,TRINA_FORT,NAN
+237,TARTE_ROCK_FORK,1,CONNECTION,EARTH,KEPLAN,NAN
+238,TARTE_ROCK_FORK,1,CONNECTION,EARTH,ABANDONED_QUARRY,NAN
+239,KEPLAN_QUARRY,1,CONNECTION,EARTH,KEPLAN,NAN
+240,KEPLAN_QUARRY,1,CONNECTION,EARTH,NORTH_ABANDONED_QUARRY,NAN
+241,KEPLAN_VICINITY,1,CONNECTION,EARTH,QUARRY_BYWAY,NAN
+242,KEPLAN_VICINITY,1,CONNECTION,EARTH,KEPLAN,NAN
+243,KEPLAN_VICINITY,1,CONNECTION,EARTH,SOUTHERN_NEUTRAL_ZONE,NAN
+244,MARNI_FARM_RUINS,1,CONNECTION,EARTH,FALRES_DIRT_FARM,NAN
+245,MARNI_FARM_RUINS,1,CONNECTION,EARTH,OZE_PASS,NAN
+246,MARNI_FARM_RUINS,1,CONNECTION,EARTH,MARNI_CAVE_PATH,NAN
+247,CONTAMINATED_FARM,2,TRADING POST,EARTH,CALPHEON_CITY,NAN
+248,CONTAMINATED_FARM,2,TRADING POST,EARTH,ANTI-TROLL_FORTIFICATION,NAN
+249,DIAS_FARM,2,TRADING POST,EARTH,CALPHEON_CITY,NAN
+250,DIAS_FARM,2,TRADING POST,EARTH,NORTHERN_WHEAT_PLANTATION,NAN
+251,DIAS_FARM,2,TRADING POST,EARTH,DELPHE_KNIGHTS_CASTLE,NAN
+252,DIAS_FARM,2,TRADING POST,EARTH,FALRES_DIRT_FARM,NAN
+253,BERNIANTO_FARM,2,TRADING POST,EARTH,ANTI-TROLL_FORTIFICATION,NAN
+254,BERNIANTO_FARM,2,TRADING POST,EARTH,NORTHERN_WHEAT_PLANTATION,NAN
+255,BERNIANTO_FARM,2,TRADING POST,EARTH,BREE_TREE_RUINS,NAN
+256,FALRES_DIRT_FARM,2,TRADING POST,EARTH,CALPHEON_CITY,NAN
+257,FALRES_DIRT_FARM,2,TRADING POST,EARTH,MARNI_FARM_RUINS,NAN
+258,FALRES_DIRT_FARM,2,TRADING POST,EARTH,MARNI_CAVE_PATH,NAN
+259,GABINO_FARM,2,TRADING POST,EARTH,CALPHEON_CITY,NAN
+260,GABINO_FARM,2,TRADING POST,EARTH,NORTH_KAIA_MOUNTAINTOP,NAN
+261,GABINO_FARM,2,TRADING POST,EARTH,NORTH_KAIA_PIER,NAN
+262,COHEN_FARM,2,TRADING POST,EARTH,ABANDONED_LAND,NAN
+263,COHEN_FARM,2,TRADING POST,EARTH,ISOLATED_SENTRY_POST,NAN
+264,RHUTUM_SENTRY_POST,3,TRADING POST,EARTH,SOUTH_KAIA_PIER,NAN
+265,RHUTUM_SENTRY_POST,3,TRADING POST,EARTH,PHONIEL'S_CABIN,NAN
+266,RHUTUM_SENTRY_POST,3,TRADING POST,EARTH,RHUTUM_OUTSTATION,NAN
+267,MANSHA_FOREST,2,TRADING POST,EARTH,CALPHEON_CASTLE_WESTERN_FOREST,NAN
+268,MANSHA_FOREST,2,TRADING POST,EARTH,CATFISHMAN_CAMP,NAN
+269,MANSHA_FOREST,2,TRADING POST,EARTH,TOBARE'S_CABIN,NAN
+270,TOBARE'S_CABIN,2,TRADING POST,EARTH,MANSHA_FOREST,NAN
+271,TOBARE'S_CABIN,2,TRADING POST,EARTH,RHUTUM_OUTSTATION,NAN
+272,TOBARE'S_CABIN,2,TRADING POST,EARTH,ABANDONED_MONASTERY,NAN
+273,PHONIEL'S_CABIN,2,TRADING POST,EARTH,NORTH_KAIA_MOUNTAINTOP,NAN
+274,PHONIEL'S_CABIN,2,TRADING POST,EARTH,PHONIEL'S_CABIN_ENTRANCE,NAN
+275,PHONIEL'S_CABIN,2,TRADING POST,EARTH,BEHR_RIVERHEAD,NAN
+276,PHONIEL'S_CABIN,2,TRADING POST,EARTH,RHUTUM_SENTRY_POST,NAN
+277,LONGLEAF_TREE_SENTRY_POST,2,TRADING POST,EARTH,TRENT,NAN
+278,LONGLEAF_TREE_SENTRY_POST,2,TRADING POST,EARTH,CRIOVILLE,NAN
+279,CRIOVILLE,2,TRADING POST,EARTH,LONGLEAF_TREE_SENTRY_POST,NAN
+280,CRIOVILLE,2,TRADING POST,EARTH,LONGLEAF_TREE_FOREST,NAN
+281,OBEREN_FARM,2,TRADING POST,EARTH,CALPHEON_CITY,NAN
+282,OBEREN_FARM,2,TRADING POST,EARTH,BAIN_FARMLAND,NAN
+283,OBEREN_FARM,2,TRADING POST,EARTH,BEACON_ENTRANCE_POST,NAN
+284,BAIN_FARMLAND,2,TRADING POST,EARTH,OBEREN_FARM,NAN
+285,BAIN_FARMLAND,2,TRADING POST,EARTH,PHONIEL'S_CABIN_ENTRANCE,NAN
+286,BEACON_ENTRANCE_POST,3,TRADING POST,EARTH,OBEREN_FARM,NAN
+287,BEACON_ENTRANCE_POST,3,TRADING POST,EARTH,TRINA_BEACON_TOWERS,NAN
+288,BEACON_ENTRANCE_POST,3,TRADING POST,EARTH,MARNI_CAVE_PATH,NAN
+289,DANE_CANYON,2,TRADING POST,EARTH,SAUNIL_CAMP,NAN
+290,DANE_CANYON,2,TRADING POST,EARTH,GEHAKU_PLAIN,NAN
+291,ABANDONED_QUARRY,2,TRADING POST,EARTH,TARTE_ROCK_FORK,NAN
+292,ABANDONED_QUARRY,2,TRADING POST,EARTH,GEHAKU_PLAIN,NAN
+293,GIANIN_FARM,2,TRADING POST,EARTH,KEPLAN_HILL,NAN
+294,GIANIN_FARM,2,TRADING POST,EARTH,GEHAKU_PLAIN,NAN
+295,GIANIN_FARM,2,TRADING POST,EARTH,SERENDIA_WESTERN_GATEWAY,NAN
+296,QUARRY_BYWAY,2,TRADING POST,EARTH,OZE_PASS,NAN
+297,QUARRY_BYWAY,2,TRADING POST,EARTH,KEPLAN_VICINITY,NAN
+298,QUARRY_BYWAY,2,TRADING POST,EARTH,ORC_CAMP,NAN
+299,OLD_DANDELION,1,DANGEROUS,EARTH,NORTHERN_WHEAT_PLANTATION,NAN
+300,OLD_DANDELION,1,DANGEROUS,EARTH,KHURUTO_CAVE,NAN
+301,OLD_DANDELION,1,DANGEROUS,EARTH,DELPHE_OUTPOST,NAN
+302,KHURUTO_CAVE,1,DANGEROUS,EARTH,FLORIN,NAN
+303,KHURUTO_CAVE,1,DANGEROUS,EARTH,OLD_DANDELION,NAN
+304,KARANDA_RIDGE,1,DANGEROUS,EARTH,DELPHE_OUTPOST,NAN
+305,BREE_TREE_RUINS,1,DANGEROUS,EARTH,CAPHRAS_CAVE,NAN
+306,BREE_TREE_RUINS,1,DANGEROUS,EARTH,BERNIANTO_FARM,NAN
+307,CAPHRAS_CAVE,1,DANGEROUS,EARTH,FLORIN,NAN
+308,CAPHRAS_CAVE,1,DANGEROUS,EARTH,BREE_TREE_RUINS,NAN
+309,CALPHEON_CASTLE_WESTERN_FOREST,1,DANGEROUS,EARTH,CATFISHMAN_CAMP,NAN
+310,CALPHEON_CASTLE_WESTERN_FOREST,1,DANGEROUS,EARTH,MANSHA_FOREST,NAN
+311,CATFISHMAN_CAMP,1,DANGEROUS,EARTH,CALPHEON_CASTLE_SITE,NAN
+312,CATFISHMAN_CAMP,1,DANGEROUS,EARTH,LAKE_KAIA,NAN
+313,CATFISHMAN_CAMP,1,DANGEROUS,EARTH,MANSHA_FOREST,NAN
+314,CATFISHMAN_CAMP,1,DANGEROUS,EARTH,CALPHEON_CASTLE_WESTERN_FOREST,NAN
+315,LAKE_KAIA_(NORTHERN_LAKE_KAIA_SOUTHERN_LAKE_KAIA),1,DANGEROUS,EARTH,CATFISHMAN_CAMP,NAN
+316,NORTH_KAIA_MOUNTAINTOP,1,DANGEROUS,EARTH,GABINO_FARM,NAN
+317,NORTH_KAIA_MOUNTAINTOP,1,DANGEROUS,EARTH,PHONIEL'S_CABIN,NAN
+318,RHUTUM_OUTSTATION,1,DANGEROUS,EARTH,RHUTUM_SENTRY_POST,NAN
+319,RHUTUM_OUTSTATION,1,DANGEROUS,EARTH,TOBARE'S_CABIN,NAN
+320,TREANT_FOREST,1,DANGEROUS,EARTH,ABANDONED_MONASTERY,NAN
+321,LONGLEAF_TREE_FOREST,1,DANGEROUS,EARTH,CRIOVILLE,NAN
+322,LONGLEAF_TREE_FOREST,1,DANGEROUS,EARTH,BEHR,NAN
+323,LONGLEAF_TREE_FOREST,1,DANGEROUS,EARTH,KAMASYLVIA_VICINITY,NAN
+324,HEXE_SANCTUARY,2,DANGEROUS,EARTH,RHUA_TREE_STUB,NAN
+325,HEXE_SANCTUARY,2,DANGEROUS,EARTH,WITCH'S_CHAPEL,NAN
+326,WITCH'S_CHAPEL,1,DANGEROUS,EARTH,HEXE_SANCTUARY,NAN
+327,WITCH'S_CHAPEL,1,DANGEROUS,EARTH,MARIE_CAVE,NAN
+328,WITCH'S_CHAPEL,1,DANGEROUS,EARTH,FOUNTAIN_OF_ORIGIN,NAN
+329,SAUNIL_BATTLEFIELD,1,DANGEROUS,EARTH,SAUNIL_CAMP,NAN
+330,SAUNIL_BATTLEFIELD,1,DANGEROUS,EARTH,RHUA_TREE_STUB,NAN
+331,SAUNIL_BATTLEFIELD,1,DANGEROUS,EARTH,BEHR_DOWNSTREAM,NAN
+332,SAUNIL_BATTLEFIELD,1,DANGEROUS,EARTH,TRINA_FORT,NAN
+333,SAUNIL_CAMP,1,DANGEROUS,EARTH,SAUNIL_BATTLEFIELD,NAN
+334,SAUNIL_CAMP,1,DANGEROUS,EARTH,DANE_CANYON,NAN
+335,PRIMAL_GIANT_POST,1,DANGEROUS,EARTH,GEHAKU_PLAIN,NAN
+336,PRIMAL_GIANT_POST,1,DANGEROUS,EARTH,HEXE_STONE_WALL,NAN
+337,GLUTONI_CAVE,1,DANGEROUS,EARTH,MARNI'S_LAB,NAN
+338,MARNI'S_LAB,1,DANGEROUS,EARTH,MARNI_CAVE_PATH,NAN
+339,MARNI'S_LAB,1,DANGEROUS,EARTH,GLUTONI_CAVE,NAN
+340,NORTH_ABANDONED_QUARRY,1,DANGEROUS,EARTH,MARNI_CAVE_PATH,NAN
+341,NORTH_ABANDONED_QUARRY,1,DANGEROUS,EARTH,OZE'S_HOUSE,NAN
+342,NORTH_ABANDONED_QUARRY,1,DANGEROUS,EARTH,KEPLAN_QUARRY,NAN
+343,OZE'S_HOUSE,1,DANGEROUS,EARTH,OZE_PASS,NAN
+344,OZE'S_HOUSE,1,DANGEROUS,EARTH,NORTH_ABANDONED_QUARRY,NAN
+345,OZE_PASS,1,DANGEROUS,EARTH,MARNI_FARM_RUINS,NAN
+346,OZE_PASS,1,DANGEROUS,EARTH,DELPHE_KNIGHTS_CASTLE,NAN
+347,OZE_PASS,1,DANGEROUS,EARTH,BRADIE_FORTRESS,NAN
+348,OZE_PASS,1,DANGEROUS,EARTH,OZE'S_HOUSE,NAN
+349,OZE_PASS,1,DANGEROUS,EARTH,QUARRY_BYWAY,NAN
+350,CALPHEON_CITY,0,CAPITAL,EARTH,ABANDONED_LAND,NAN
+351,CALPHEON_CITY,0,CAPITAL,EARTH,CONTAMINATED_FARM,NAN
+352,CALPHEON_CITY,0,CAPITAL,EARTH,DIAS_FARM,NAN
+353,CALPHEON_CITY,0,CAPITAL,EARTH,FALRES_DIRT_FARM,NAN
+354,CALPHEON_CITY,0,CAPITAL,EARTH,OBEREN_FARM,NAN
+355,CALPHEON_CITY,0,CAPITAL,EARTH,GABINO_FARM,NAN
+356,PORT_EPHERIA,0,TOWN,EARTH,EPHERIA_SENTRY_POST,NAN
+357,PORT_EPHERIA,0,TOWN,EARTH,SERCA_ISLAND,NAN
+358,PORT_EPHERIA,0,TOWN,EARTH,EPHERIA_RIDGE,NAN
+359,FLORIN,1,TOWN,EARTH,MASK_OWL'S_FOREST,NAN
+360,FLORIN,1,TOWN,EARTH,CAPHRAS_CAVE,NAN
+361,FLORIN,1,TOWN,EARTH,KHURUTO_CAVE,NAN
+362,NORTHERN_WHEAT_PLANTATION,2,TOWN,EARTH,BERNIANTO_FARM,NAN
+363,NORTHERN_WHEAT_PLANTATION,2,TOWN,EARTH,DIAS_FARM,NAN
+364,NORTHERN_WHEAT_PLANTATION,2,TOWN,EARTH,OLD_DANDELION,NAN
+365,KEPLAN_(KEPLAN_EXTRACTION_MILL),0,TOWN,EARTH,KEPLAN_QUARRY,NAN
+366,KEPLAN_(KEPLAN_EXTRACTION_MILL),0,TOWN,EARTH,TARTE_ROCK_FORK,NAN
+367,KEPLAN_(KEPLAN_EXTRACTION_MILL),0,TOWN,EARTH,KEPLAN_VICINITY,NAN
+368,KEPLAN_(KEPLAN_EXTRACTION_MILL),0,TOWN,EARTH,KEPLAN_HILL,NAN
+369,BEHR,1,TOWN,EARTH,LONGLEAF_TREE_FOREST,NAN
+370,BEHR,1,TOWN,EARTH,BEHR_DOWNSTREAM,NAN
+371,TRENT,0,TOWN,EARTH,LUMBERJACK'S_REST_AREA,NAN
+372,TRENT,0,TOWN,EARTH,LONGLEAF_TREE_SENTRY_POST,NAN
+373,LEMORIA_GUARD_POST,2,GATEWAY,EARTH,KAMASYLVIA_VICINITY,NAN
+374,LEMORIA_GUARD_POST,2,GATEWAY,EARTH,ATANIS_POND,NAN
+375,LEMORIA_GUARD_POST,2,GATEWAY,EARTH,AHIB_CONFLICT_ZONE,NAN
+376,LEMORIA_BEACON_TOWERS,1,GATEWAY,EARTH,SHADY_TREE_FOREST,NAN
+377,CENTRAL_LEMORIA_CAMP,1,GATEWAY,EARTH,MANSHAUM_FOREST,NAN
+378,CENTRAL_LEMORIA_CAMP,1,GATEWAY,EARTH,NAVARN_STEPPE,NAN
+379,CENTRAL_LEMORIA_CAMP,1,GATEWAY,EARTH,HOLO_FOREST,NAN
+380,CENTRAL_LEMORIA_CAMP,1,GATEWAY,EARTH,WHITE_WOOD_FOREST,NAN
+381,ACHER_SOUTHERN_CAMP,1,GATEWAY,EARTH,GRANA,NAN
+382,ACHER_WESTERN_CAMP,2,GATEWAY,EARTH,LOOPY_TREE_FOREST,NAN
+383,ACHER_GUARD_POST,3,GATEWAY,EARTH,LOOPY_TREE_FOREST,NAN
+384,ACHER_GUARD_POST,3,GATEWAY,EARTH,WESTERN_VALTARRA_MOUNTAINS,NAN
+385,ATANIS_POND,1,CONNECTION,EARTH,LEMORIA_GUARD_POST,NAN
+386,ATANIS_POND,1,CONNECTION,EARTH,CADUIL_FOREST,NAN
+387,ATANIS_POND,1,CONNECTION,EARTH,VIV_FORETTA'S_HAMLET,NAN
+388,CADUIL_FOREST,1,CONNECTION,EARTH,ATANIS_POND,NAN
+389,CADUIL_FOREST,1,CONNECTION,EARTH,OLD_WISDOM_TREE,NAN
+390,CADUIL_FOREST,1,CONNECTION,EARTH,MANSHAUM_FOREST,NAN
+391,SHADY_TREE_FOREST,1,CONNECTION,EARTH,OLD_WISDOM_TREE,NAN
+392,SHADY_TREE_FOREST,1,CONNECTION,EARTH,NAVARN_STEPPE,NAN
+393,SHADY_TREE_FOREST,1,CONNECTION,EARTH,LEMORIA_BEACON_TOWERS,NAN
+394,VALTARRA_MOUNTAINS,1,CONNECTION,EARTH,VIV_FORETTA'S_HAMLET,NAN
+395,VALTARRA_MOUNTAINS,1,CONNECTION,EARTH,VALTARRA_-_ALTAR_OF_TRAINING,NAN
+396,HOLO_FOREST,2,CONNECTION,EARTH,CENTRAL_LEMORIA_CAMP,NAN
+397,HOLO_FOREST,2,CONNECTION,EARTH,MIRUMOK_RUINS,NAN
+398,HOLO_FOREST,2,CONNECTION,EARTH,WHITE_WOOD_FOREST,NAN
+399,OKIARA_RIVER,1,CONNECTION,EARTH,GRANA,NAN
+400,SOUTHERN_KAMASYLVIA,2,CONNECTION,EARTH,GRANA,NAN
+401,SOUTHERN_KAMASYLVIA,2,CONNECTION,EARTH,GYFIN_RHASIA_TEMPLE,NAN
+402,WHITE_WOOD_FOREST,1,CONNECTION,EARTH,LAKE_FLONDOR,NAN
+403,WHITE_WOOD_FOREST,1,CONNECTION,EARTH,HOLO_FOREST,NAN
+404,WHITE_WOOD_FOREST,1,CONNECTION,EARTH,CENTRAL_LEMORIA_CAMP,NAN
+405,WHITE_WOOD_FOREST,1,CONNECTION,EARTH,TOOTH_FAIRY_FOREST,NAN
+406,POLLY'S_FOREST,2,CONNECTION,EARTH,GRANA,NAN
+407,POLLY'S_FOREST,2,CONNECTION,EARTH,KROGDALO_TRACE,NAN
+408,LOONEY_CABIN,1,CONNECTION,EARTH,KROGDALO_TRACE,NAN
+409,KROGDALO_TRACE,2,CONNECTION,EARTH,POLLY'S_FOREST,NAN
+410,KROGDALO_TRACE,2,CONNECTION,EARTH,LOONEY_CABIN,NAN
+411,KROGDALO_TRACE,2,CONNECTION,EARTH,WEENIE_CABIN,NAN
+412,WEENIE_CABIN,1,CONNECTION,EARTH,KROGDALO_TRACE,NAN
+413,WESTERN_VALTARRA_MOUNTAINS,2,CONNECTION,EARTH,ACHER_GUARD_POST,NAN
+414,WESTERN_VALTARRA_MOUNTAINS,2,CONNECTION,EARTH,YIANAROS'S_FIELD,NAN
+415,WESTERN_VALTARRA_MOUNTAINS,2,CONNECTION,EARTH,MIRUMOK_RUINS,NAN
+416,WESTERN_VALTARRA_MOUNTAINS,2,CONNECTION,EARTH,VALTARRA_-_ALTAR_OF_TRAINING,NAN
+417,YIANAROS'S_FIELD,1,CONNECTION,EARTH,WESTERN_VALTARRA_MOUNTAINS,NAN
+418,VIV_FORETTA'S_HAMLET,2,TRADING POST,EARTH,ATANIS_POND,NAN
+419,VIV_FORETTA'S_HAMLET,2,TRADING POST,EARTH,VALTARRA_MOUNTAINS,NAN
+420,LAKE_FLONDOR,3,TRADING POST,EARTH,GRANA,NAN
+421,LAKE_FLONDOR,3,TRADING POST,EARTH,WHITE_WOOD_FOREST,NAN
+422,KAMASYLVIA_VICINITY,2,DANGEROUS,EARTH,LONGLEAF_TREE_FOREST,NAN
+423,KAMASYLVIA_VICINITY,2,DANGEROUS,EARTH,LEMORIA_GUARD_POST,NAN
+424,VALTARRA_-_ALTAR_OF_TRAINING,2,DANGEROUS,EARTH,VALTARRA_MOUNTAINS,NAN
+425,VALTARRA_-_ALTAR_OF_TRAINING,2,DANGEROUS,EARTH,WESTERN_VALTARRA_MOUNTAINS,NAN
+426,MANSHAUM_FOREST,3,DANGEROUS,EARTH,CADUIL_FOREST,NAN
+427,MANSHAUM_FOREST,3,DANGEROUS,EARTH,CENTRAL_LEMORIA_CAMP,NAN
+428,NAVARN_STEPPE,3,DANGEROUS,EARTH,SHADY_TREE_FOREST,NAN
+429,NAVARN_STEPPE,3,DANGEROUS,EARTH,CENTRAL_LEMORIA_CAMP,NAN
+430,GYFIN_RHASIA_TEMPLE,3,DANGEROUS,EARTH,SOUTHERN_KAMASYLVIA,NAN
+431,MIRUMOK_RUINS,3,DANGEROUS,EARTH,HOLO_FOREST,NAN
+432,MIRUMOK_RUINS,3,DANGEROUS,EARTH,WESTERN_VALTARRA_MOUNTAINS,NAN
+433,TOOTH_FAIRY_FOREST,3,DANGEROUS,EARTH,TOOTH_FAIRY_CABIN,NAN
+434,TOOTH_FAIRY_FOREST,3,DANGEROUS,EARTH,WHITE_WOOD_FOREST,NAN
+435,TOOTH_FAIRY_FOREST,3,DANGEROUS,EARTH,LOOPY_TREE_FOREST,NAN
+436,LOOPY_TREE_FOREST,2,DANGEROUS,EARTH,ASH_FOREST,NAN
+437,LOOPY_TREE_FOREST,2,DANGEROUS,EARTH,ACHER_GUARD_POST,NAN
+438,LOOPY_TREE_FOREST,2,DANGEROUS,EARTH,ACHER_WESTERN_CAMP,NAN
+439,LOOPY_TREE_FOREST,2,DANGEROUS,EARTH,TOOTH_FAIRY_FOREST,NAN
+440,ASH_FOREST,3,DANGEROUS,EARTH,LOOPY_TREE_FOREST,NAN
+441,GRANA,0,CAPITAL,EARTH,POLLY'S_FOREST,NAN
+442,GRANA,0,CAPITAL,EARTH,LAKE_FLONDOR,NAN
+443,GRANA,0,CAPITAL,EARTH,OKIARA_RIVER,NAN
+444,GRANA,0,CAPITAL,EARTH,SOUTHERN_KAMASYLVIA,NAN
+445,GRANA,0,CAPITAL,EARTH,ACHER_SOUTHERN_CAMP,NAN
+446,OLD_WISDOM_TREE,0,TOWN,EARTH,CADUIL_FOREST,NAN
+447,OLD_WISDOM_TREE,0,TOWN,EARTH,SHADY_TREE_FOREST,NAN
+448,TOOTH_FAIRY_CABIN,2,TOWN,EARTH,TOOTH_FAIRY_FOREST,NAN
+449,MEDIAH_NORTHERN_GATEWAY,3,GATEWAY,EARTH,THE_MAUSOLEUM,NAN
+450,MEDIAH_NORTHERN_GATEWAY,3,GATEWAY,EARTH,CRON_CASTLE_SITE,NAN
+451,SARMA_OUTPOST,1,GATEWAY,EARTH,SAUSAN_GARRISON,NAN
+452,SARMA_OUTPOST,1,GATEWAY,EARTH,MEDIAH_CASTLE,NAN
+453,SARMA_OUTPOST,1,GATEWAY,EARTH,KUSHA,NAN
+454,MEDIAH_CASTLE,1,GATEWAY,EARTH,SARMA_OUTPOST,NAN
+455,THE_MAUSOLEUM,1,CONNECTION,EARTH,MEDIAH_NORTHERN_GATEWAY,NAN
+456,THE_MAUSOLEUM,1,CONNECTION,EARTH,MEDIAH_NORTHERN_HIGHLANDS,NAN
+457,MEDIAH_NORTHERN_HIGHLANDS,2,CONNECTION,EARTH,THE_MAUSOLEUM,NAN
+458,MEDIAH_NORTHERN_HIGHLANDS,2,CONNECTION,EARTH,HELMS_POST,NAN
+459,MEDIAH_NORTHERN_HIGHLANDS,2,CONNECTION,EARTH,ELRIC_SHRINE,NAN
+460,MEDIAH_NORTHERN_HIGHLANDS,2,CONNECTION,EARTH,SAUSAN_GARRISON,NAN
+461,SAUSAN_GARRISON_WHARF,1,CONNECTION,EARTH,SAUSAN_GARRISON,NAN
+462,SAUSAN_GARRISON_WHARF,1,CONNECTION,EARTH,PILAVA_ISLAND,NAN
+463,STONETAIL_WASTELAND,1,CONNECTION,EARTH,KUSHA,NAN
+464,STONETAIL_WASTELAND,1,CONNECTION,EARTH,SAUSAN_GARRISON,NAN
+465,STONETAIL_WASTELAND,1,CONNECTION,EARTH,CANYON_OF_CORRUPTION,NAN
+466,MEDIAH_SHORE,1,CONNECTION,EARTH,KUSHA,NAN
+467,MEDIAH_SHORE,1,CONNECTION,EARTH,SHURI_FARM,NAN
+468,MEDIAH_SHORE,1,CONNECTION,EARTH,OMAR_LAVA_CAVE,NAN
+469,ANCIENT_FISSURE,2,CONNECTION,EARTH,HELMS_POST,NAN
+470,ANCIENT_FISSURE,2,CONNECTION,EARTH,RUMBLING_LAND,NAN
+471,ANCIENT_FISSURE,2,CONNECTION,EARTH,ANCIENT_RUINS_EXCAVATION_SITE,NAN
+472,RUMBLING_LAND,1,CONNECTION,EARTH,EASTERN_BORDER,NAN
+473,RUMBLING_LAND,1,CONNECTION,EARTH,ANCIENT_FISSURE,NAN
+474,ANCIENT_RUINS_EXCAVATION_SITE,1,CONNECTION,EARTH,ANCIENT_FISSURE,NAN
+475,ANCIENT_RUINS_EXCAVATION_SITE,1,CONNECTION,EARTH,CANYON_OF_CORRUPTION,NAN
+476,ANCIENT_RUINS_EXCAVATION_SITE,1,CONNECTION,EARTH,KAMASYLVE_TEMPLE,NAN
+477,KAMASYLVE_TEMPLE,2,CONNECTION,EARTH,EASTERN_BORDER,NAN
+478,KAMASYLVE_TEMPLE,2,CONNECTION,EARTH,ANCIENT_RUINS_EXCAVATION_SITE,NAN
+479,KAMASYLVE_TEMPLE,2,CONNECTION,EARTH,AHTO_FARM,NAN
+480,KAMASYLVE_TEMPLE,2,CONNECTION,EARTH,CASTLE_RUINS,NAN
+481,AHTO_FARM,2,CONNECTION,EARTH,KAMASYLVE_TEMPLE,NAN
+482,AHTO_FARM,2,CONNECTION,EARTH,MANES_HIDEOUT,NAN
+483,AHTO_FARM,2,CONNECTION,EARTH,STONETAIL_HORSE_RANCH,NAN
+484,STONEBEAK_SHORE,1,CONNECTION,EARTH,OMAR_LAVA_CAVE,NAN
+485,STONEBEAK_SHORE,1,CONNECTION,EARTH,ALTINOVA_ENTRANCE,NAN
+486,AWAKENING_BELL,1,CONNECTION,EARTH,OMAR_LAVA_CAVE,NAN
+487,AWAKENING_BELL,1,CONNECTION,EARTH,ALTINOVA_ENTRANCE,NAN
+488,ASULA_HIGHLAND,1,CONNECTION,EARTH,OMAR_LAVA_CAVE,NAN
+489,ASULA_HIGHLAND,1,CONNECTION,EARTH,HIGHLAND_JUNCTION,NAN
+490,ASULA_HIGHLAND,1,CONNECTION,EARTH,KASULA_FARM,NAN
+491,ASULA_HIGHLAND,1,CONNECTION,EARTH,STONETAIL_HORSE_RANCH,NAN
+492,HIGHLAND_JUNCTION,1,CONNECTION,EARTH,ASULA_HIGHLAND,NAN
+493,HIGHLAND_JUNCTION,1,CONNECTION,EARTH,ABANDONED_IRON_MINE_ENTRANCE,NAN
+494,HIGHLAND_JUNCTION,1,CONNECTION,EARTH,ALTINOVA_ENTRANCE,NAN
+495,ALTINOVA_ENTRANCE,1,CONNECTION,EARTH,ALTINOVA,NAN
+496,ALTINOVA_ENTRANCE,1,CONNECTION,EARTH,ABANDONED_IRON_MINE,NAN
+497,ALTINOVA_ENTRANCE,1,CONNECTION,EARTH,HIGHLAND_JUNCTION,NAN
+498,ALTINOVA_ENTRANCE,1,CONNECTION,EARTH,AWAKENING_BELL,NAN
+499,ALTINOVA_ENTRANCE,1,CONNECTION,EARTH,STONEBEAK_SHORE,NAN
+500,ABANDONED_IRON_MINE_ENTRANCE,1,CONNECTION,EARTH,HIGHLAND_JUNCTION,NAN
+501,ABANDONED_IRON_MINE_ENTRANCE,1,CONNECTION,EARTH,ALUMN_ROCK_VALLEY,NAN
+502,ALUMN_ROCK_VALLEY,1,CONNECTION,EARTH,SPLASHING_POINT,NAN
+503,ALUMN_ROCK_VALLEY,1,CONNECTION,EARTH,WANDERING_ROGUE_DEN,NAN
+504,ALUMN_ROCK_VALLEY,1,CONNECTION,EARTH,ABANDONED_IRON_MINE_ENTRANCE,NAN
+505,ALUMN_ROCK_VALLEY,1,CONNECTION,EARTH,ABANDONED_IRON_MINE_SAUNIL_DISTRICT,NAN
+506,HASRAH_CLIFF_(HASRAH_ANCIENT_RUINS),1,CONNECTION,EARTH,TUNGRAD_FOREST,NAN
+507,HASRAH_CLIFF_(HASRAH_ANCIENT_RUINS),1,CONNECTION,EARTH,KHIMUT_LUMBER_CAMP,NAN
+508,SHURI_FARM,2,TRADING POST,EARTH,CANYON_OF_CORRUPTION,NAN
+509,SHURI_FARM,2,TRADING POST,EARTH,STONETAIL_HORSE_RANCH,NAN
+510,SHURI_FARM,2,TRADING POST,EARTH,MEDIAH_SHORE,NAN
+511,STONETAIL_HORSE_RANCH,1,TRADING POST,EARTH,SHURI_FARM,NAN
+512,STONETAIL_HORSE_RANCH,1,TRADING POST,EARTH,AHTO_FARM,NAN
+513,STONETAIL_HORSE_RANCH,1,TRADING POST,EARTH,ASULA_HIGHLAND,NAN
+514,OMAR_LAVA_CAVE,2,TRADING POST,EARTH,MEDIAH_SHORE,NAN
+515,OMAR_LAVA_CAVE,2,TRADING POST,EARTH,STONEBEAK_SHORE,NAN
+516,OMAR_LAVA_CAVE,2,TRADING POST,EARTH,AWAKENING_BELL,NAN
+517,OMAR_LAVA_CAVE,2,TRADING POST,EARTH,ASULA_HIGHLAND,NAN
+518,KASULA_FARM,2,TRADING POST,EARTH,TARIF,NAN
+519,KASULA_FARM,2,TRADING POST,EARTH,WANDERING_ROGUE_DEN,NAN
+520,KASULA_FARM,2,TRADING POST,EARTH,ASULA_HIGHLAND,NAN
+521,SPLASHING_POINT,1,TRADING POST,EARTH,ALUMN_ROCK_VALLEY,NAN
+522,SAUSAN_GARRISON,1,DANGEROUS,EARTH,MEDIAH_NORTHERN_HIGHLANDS,NAN
+523,SAUSAN_GARRISON,1,DANGEROUS,EARTH,SAUSAN_GARRISON_WHARF,NAN
+524,SAUSAN_GARRISON,1,DANGEROUS,EARTH,STONETAIL_WASTELAND,NAN
+525,SAUSAN_GARRISON,1,DANGEROUS,EARTH,SARMA_OUTPOST,NAN
+526,ELRIC_SHRINE,1,DANGEROUS,EARTH,MEDIAH_NORTHERN_HIGHLANDS,NAN
+527,ELRIC_SHRINE,1,DANGEROUS,EARTH,CANYON_OF_CORRUPTION,NAN
+528,HELMS_POST,1,DANGEROUS,EARTH,MEDIAH_NORTHERN_HIGHLANDS,NAN
+529,HELMS_POST,1,DANGEROUS,EARTH,ANCIENT_FISSURE,NAN
+530,CANYON_OF_CORRUPTION,1,DANGEROUS,EARTH,ELRIC_SHRINE,NAN
+531,CANYON_OF_CORRUPTION,1,DANGEROUS,EARTH,STONETAIL_WASTELAND,NAN
+532,CANYON_OF_CORRUPTION,1,DANGEROUS,EARTH,SHURI_FARM,NAN
+533,CANYON_OF_CORRUPTION,1,DANGEROUS,EARTH,ANCIENT_RUINS_EXCAVATION_SITE,NAN
+534,MANES_HIDEOUT,1,DANGEROUS,EARTH,AHTO_FARM,NAN
+535,MANES_HIDEOUT,1,DANGEROUS,EARTH,TARIF,NAN
+536,WANDERING_ROGUE_DEN,1,DANGEROUS,EARTH,KASULA_FARM,NAN
+537,WANDERING_ROGUE_DEN,1,DANGEROUS,EARTH,ALUMN_ROCK_VALLEY,NAN
+538,ABANDONED_IRON_MINE,2,DANGEROUS,EARTH,ABANDONED_IRON_MINE_SAUNIL_DISTRICT,NAN
+539,ABANDONED_IRON_MINE,2,DANGEROUS,EARTH,ABANDONED_IRON_MINE_RHUTUM_DISTRICT,NAN
+540,ABANDONED_IRON_MINE,2,DANGEROUS,EARTH,ALTINOVA_ENTRANCE,NAN
+541,ABANDONED_IRON_MINE_SAUNIL_DISTRICT,1,DANGEROUS,EARTH,ABANDONED_IRON_MINE,NAN
+542,ABANDONED_IRON_MINE_SAUNIL_DISTRICT,1,DANGEROUS,EARTH,ALUMN_ROCK_VALLEY,NAN
+543,ABANDONED_IRON_MINE_SAUNIL_DISTRICT,1,DANGEROUS,EARTH,MARNI'S_2ND_LAB,NAN
+544,ABANDONED_IRON_MINE_RHUTUM_DISTRICT,1,DANGEROUS,EARTH,ABANDONED_IRON_MINE,NAN
+545,ABANDONED_IRON_MINE_RHUTUM_DISTRICT,1,DANGEROUS,EARTH,ABUN,NAN
+546,MARNI'S_2ND_LAB,1,DANGEROUS,EARTH,ABUN,NAN
+547,MARNI'S_2ND_LAB,1,DANGEROUS,EARTH,ABANDONED_IRON_MINE_SAUNIL_DISTRICT,NAN
+548,SOLDIER'S_GRAVE,1,DANGEROUS,EARTH,CASTLE_RUINS,NAN
+549,SOLDIER'S_GRAVE,1,DANGEROUS,EARTH,TARIF,NAN
+550,SOLDIER'S_GRAVE,1,DANGEROUS,EARTH,TUNGRAD_FOREST,NAN
+551,TUNGRAD_FOREST,1,DANGEROUS,EARTH,SOLDIER'S_GRAVE,NAN
+552,TUNGRAD_FOREST,1,DANGEROUS,EARTH,HASRAH_CLIFF,NAN
+553,ALTINOVA,0,CAPITAL,EARTH,ABUN,NAN
+554,ALTINOVA,0,CAPITAL,EARTH,ALTINOVA_ENTRANCE,NAN
+555,ALTINOVA,0,CAPITAL,EARTH,ALTINOVA_GATEWAY,NAN
+556,TARIF,0,TOWN,EARTH,SOLDIER'S_GRAVE,NAN
+557,TARIF,0,TOWN,EARTH,MANES_HIDEOUT,NAN
+558,TARIF,0,TOWN,EARTH,KASULA_FARM,NAN
+559,KUSHA,1,TOWN,EARTH,STONETAIL_WASTELAND,NAN
+560,KUSHA,1,TOWN,EARTH,SARMA_OUTPOST,NAN
+561,KUSHA,1,TOWN,EARTH,MEDIAH_SHORE,NAN
+562,ABUN,1,TOWN,EARTH,ALTINOVA,NAN
+563,ABUN,1,TOWN,EARTH,ABANDONED_IRON_MINE_RHUTUM_DISTRICT,NAN
+564,ABUN,1,TOWN,EARTH,MARNI'S_2ND_LAB,NAN
+565,NORTHERN_GUARD_CAMP,3,GATEWAY,EARTH,HEIDEL,NAN
+566,NORTHERN_GUARD_CAMP,3,GATEWAY,EARTH,HEIDEL_PASS,NAN
+567,NORTHERN_GUARD_CAMP,3,GATEWAY,EARTH,ALEJANDRO_FARM,NAN
+568,NORTHERN_GUARD_CAMP,3,GATEWAY,EARTH,NORTHERN_HEIDEL_QUARRY,NAN
+569,CENTRAL_GUARD_CAMP,3,GATEWAY,EARTH,COSTA_FARM,NAN
+570,CENTRAL_GUARD_CAMP,3,GATEWAY,EARTH,NORTHERN_CIENAGA,NAN
+571,CENTRAL_GUARD_CAMP,3,GATEWAY,EARTH,GLISH_RUINS,NAN
+572,CENTRAL_GUARD_CAMP,3,GATEWAY,EARTH,GLISH,NAN
+573,EASTERN_GATEWAY,3,GATEWAY,EARTH,MORETTI_PLANTATION,NAN
+574,EASTERN_GATEWAY,3,GATEWAY,EARTH,NORTHERN_CIENAGA,NAN
+575,EASTERN_GATEWAY,3,GATEWAY,EARTH,SOUTHERN_GUARD_CAMP,NAN
+576,EASTERN_GATEWAY,3,GATEWAY,EARTH,CASTLE_RUINS,NAN
+577,EASTERN_BORDER,3,GATEWAY,EARTH,HEIDEL,NAN
+578,EASTERN_BORDER,3,GATEWAY,EARTH,RUMBLING_LAND,NAN
+579,EASTERN_BORDER,3,GATEWAY,EARTH,KAMASYLVE_TEMPLE,NAN
+580,SOUTHERN_GUARD_CAMP,3,GATEWAY,EARTH,SERENDIA_SHRINE,NAN
+581,SOUTHERN_GUARD_CAMP,3,GATEWAY,EARTH,SOUTHERN_CIENAGA,NAN
+582,SOUTHERN_GUARD_CAMP,3,GATEWAY,EARTH,GLISH_RUINS,NAN
+583,SOUTHERN_GUARD_CAMP,3,GATEWAY,EARTH,EASTERN_GATEWAY,NAN
+584,SOUTHWESTERN_GATEWAY,3,GATEWAY,EARTH,GLISH,NAN
+585,SOUTHWESTERN_GATEWAY,3,GATEWAY,EARTH,NORTHWESTERN_GATEWAY,NAN
+586,SOUTHWESTERN_GATEWAY,3,GATEWAY,EARTH,BLOODY_MONASTERY,NAN
+587,SOUTHWESTERN_GATEWAY,3,GATEWAY,EARTH,SOUTHERN_NEUTRAL_ZONE,NAN
+588,NORTHWESTERN_GATEWAY,3,GATEWAY,EARTH,LYNCH_FARM_RUINS,NAN
+589,NORTHWESTERN_GATEWAY,3,GATEWAY,EARTH,ORC_CAMP,NAN
+590,NORTHWESTERN_GATEWAY,3,GATEWAY,EARTH,SOUTHWESTERN_GATEWAY,NAN
+591,NORTHWESTERN_GATEWAY,3,GATEWAY,EARTH,GLISH,NAN
+592,BANDIT'S_DEN_BYWAY,3,GATEWAY,EARTH,WESTERN_GUARD_CAMP,NAN
+593,BANDIT'S_DEN_BYWAY,3,GATEWAY,EARTH,FOREST_OF_SECLUSION,NAN
+594,BANDIT'S_DEN_BYWAY,3,GATEWAY,EARTH,BIRAGHI_DEN,NAN
+595,NORTHERN_HEIDEL_QUARRY,1,CONNECTION,EARTH,NORTHERN_GUARD_CAMP,NAN
+596,LYNCH_FARM_RUINS,1,CONNECTION,EARTH,NORTHERN_PLAIN_OF_SERENDIA,NAN
+597,LYNCH_FARM_RUINS,1,CONNECTION,EARTH,ALEJANDRO_FARM,NAN
+598,LYNCH_FARM_RUINS,1,CONNECTION,EARTH,HEIDEL,NAN
+599,LYNCH_FARM_RUINS,1,CONNECTION,EARTH,NORTHWESTERN_GATEWAY,NAN
+600,NORTHERN_PLAIN_OF_SERENDIA,1,CONNECTION,EARTH,BIRAGHI_DEN,NAN
+601,NORTHERN_PLAIN_OF_SERENDIA,1,CONNECTION,EARTH,LYNCH_RANCH,NAN
+602,NORTHERN_PLAIN_OF_SERENDIA,1,CONNECTION,EARTH,LYNCH_FARM_RUINS,NAN
+603,NORTHERN_PLAIN_OF_SERENDIA,1,CONNECTION,EARTH,BRADIE_FORTRESS,NAN
+604,GLISH_RUINS,1,CONNECTION,EARTH,CENTRAL_GUARD_CAMP,NAN
+605,GLISH_RUINS,1,CONNECTION,EARTH,SOUTHERN_GUARD_CAMP,NAN
+606,SOUTHERN_CIENAGA,1,CONNECTION,EARTH,GLISH,NAN
+607,SOUTHERN_CIENAGA,1,CONNECTION,EARTH,SOUTHERN_GUARD_CAMP,NAN
+608,GLISH_SWAMP,1,CONNECTION,EARTH,GLISH,NAN
+609,ORC_CAMP,3,CONNECTION,EARTH,BRADIE_FORTRESS,NAN
+610,ORC_CAMP,3,CONNECTION,EARTH,NORTHWESTERN_GATEWAY,NAN
+611,ORC_CAMP,3,CONNECTION,EARTH,WATCHTOWER,NAN
+612,ORC_CAMP,3,CONNECTION,EARTH,QUARRY_BYWAY,NAN
+613,WATCHTOWER,1,CONNECTION,EARTH,ORC_CAMP,NAN
+614,WATCHTOWER,1,CONNECTION,EARTH,SOUTHERN_NEUTRAL_ZONE,NAN
+615,ALEJANDRO_FARM,2,TRADING POST,EARTH,NORTHERN_GUARD_CAMP,NAN
+616,ALEJANDRO_FARM,2,TRADING POST,EARTH,LYNCH_FARM_RUINS,NAN
+617,LYNCH_RANCH,2,TRADING POST,EARTH,NORTHERN_PLAIN_OF_SERENDIA,NAN
+618,COSTA_FARM,2,TRADING POST,EARTH,HEIDEL,NAN
+619,COSTA_FARM,2,TRADING POST,EARTH,CENTRAL_GUARD_CAMP,NAN
+620,NORTHERN_CIENAGA,2,TRADING POST,EARTH,MORETTI_PLANTATION,NAN
+621,NORTHERN_CIENAGA,2,TRADING POST,EARTH,EASTERN_GATEWAY,NAN
+622,NORTHERN_CIENAGA,2,TRADING POST,EARTH,CENTRAL_GUARD_CAMP,NAN
+623,MORETTI_PLANTATION,2,TRADING POST,EARTH,HEIDEL,NAN
+624,MORETTI_PLANTATION,2,TRADING POST,EARTH,EASTERN_GATEWAY,NAN
+625,MORETTI_PLANTATION,2,TRADING POST,EARTH,NORTHERN_CIENAGA,NAN
+626,SERENDIA_SHRINE,1,DANGEROUS,EARTH,SOUTHERN_GUARD_CAMP,NAN
+627,SERENDIA_SHRINE,1,DANGEROUS,EARTH,KHIMUT_LUMBER_CAMP,NAN
+628,CASTLE_RUINS,1,DANGEROUS,EARTH,EASTERN_GATEWAY,NAN
+629,CASTLE_RUINS,1,DANGEROUS,EARTH,KAMASYLVE_TEMPLE,NAN
+630,CASTLE_RUINS,1,DANGEROUS,EARTH,SOLDIER'S_GRAVE,NAN
+631,BLOODY_MONASTERY,1,DANGEROUS,EARTH,SOUTHWESTERN_GATEWAY,NAN
+632,SOUTHERN_NEUTRAL_ZONE,3,DANGEROUS,EARTH,WATCHTOWER,NAN
+633,SOUTHERN_NEUTRAL_ZONE,3,DANGEROUS,EARTH,SOUTHWESTERN_GATEWAY,NAN
+634,SOUTHERN_NEUTRAL_ZONE,3,DANGEROUS,EARTH,SERENDIA_WESTERN_GATEWAY,NAN
+635,SOUTHERN_NEUTRAL_ZONE,3,DANGEROUS,EARTH,KEPLAN_VICINITY,NAN
+636,BRADIE_FORTRESS,1,DANGEROUS,EARTH,NORTHERN_PLAIN_OF_SERENDIA,NAN
+637,BRADIE_FORTRESS,1,DANGEROUS,EARTH,ORC_CAMP,NAN
+638,BRADIE_FORTRESS,1,DANGEROUS,EARTH,OZE_PASS,NAN
+639,BIRAGHI_DEN,3,DANGEROUS,EARTH,NORTHERN_PLAIN_OF_SERENDIA,NAN
+640,BIRAGHI_DEN,3,DANGEROUS,EARTH,DELPHE_KNIGHTS_CASTLE,NAN
+641,HEIDEL,0,CAPITAL,EARTH,NORTHERN_GUARD_CAMP,NAN
+642,HEIDEL,0,CAPITAL,EARTH,EASTERN_BORDER,NAN
+643,HEIDEL,0,CAPITAL,EARTH,MORETTI_PLANTATION,NAN
+644,HEIDEL,0,CAPITAL,EARTH,COSTA_FARM,NAN
+645,HEIDEL,0,CAPITAL,EARTH,LYNCH_FARM_RUINS,NAN
+646,GLISH,0,TOWN,EARTH,CENTRAL_GUARD_CAMP,NAN
+647,GLISH,0,TOWN,EARTH,NORTHWESTERN_GATEWAY,NAN
+648,GLISH,0,TOWN,EARTH,SOUTHWESTERN_GATEWAY,NAN
+649,GLISH,0,TOWN,EARTH,GLISH_SWAMP,NAN
+650,GLISH,0,TOWN,EARTH,SOUTHERN_CIENAGA,NAN
